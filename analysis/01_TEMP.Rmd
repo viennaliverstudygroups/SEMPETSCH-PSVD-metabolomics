@@ -1,0 +1,19 @@
+---
+title: "01_matrix_preprocessing"
+author: "Oleksandr_Petrenko"
+date: '2022-09-19'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+source("00_setup.R")
+```
+
+```{r}
+dataset <- read.csv(file = "R100289_METAB02_MEC078_20220901.csv")
+```
+
