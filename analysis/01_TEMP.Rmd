@@ -10,10 +10,16 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-source("00_setup.R")
+if (!require("here")) install.packages("here")
+library("here")
+source(here("R", "00_setup.R"))
+
 ```
 
 ```{r}
-dataset <- read.csv(file = "R100289_METAB02_MEC078_20220901.csv")
+# Sys.setlocale("LC_ALL", "C")
+dataset <- read.csv(file = here("data", "R100289_METAB02_MEC078_20220901.csv"))
+
+
 ```
 
