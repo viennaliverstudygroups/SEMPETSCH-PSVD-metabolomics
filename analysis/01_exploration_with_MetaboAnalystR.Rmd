@@ -1,0 +1,52 @@
+---
+title: "01_matrix_preprocessing"
+author: "Oleksandr_Petrenko"
+date: '2022-09-19'
+output: html_document
+---
+
+```{r}
+if (!require("here")) install.packages("here")
+library("here")
+suppressMessages(source(here("R", "00_setup.R")))
+
+```
+
+```{r raw data pre-processing}
+# Sys.setlocale("LC_ALL", "C")
+# dataset <- read.csv(file = here("data", "R100289_METAB02_MEC078_20220901.csv"), na.strings="<LOD",  check.names=FALSE)
+# 
+# dataset <- dataset %>% select(-c(209, RunID, Specimen, Unit, `Sample Identification`, Group_123, SEX, AGE)) %>%
+#   filter(!is.na(`Sample Code`))
+# 
+# write.csv(dataset, here("data", "R100289_METAB02_MEC078_20220901.csv"))
+
+```
+
+```{r data processing with MetaboAnalystR and transformation}
+dataset_path <- here("data", "R100289_METAB02_MEC078_20220901.csv")
+
+mSet <- InitDataObjects("conc", "stat", FALSE)
+mSet <- Read.TextData(mSet, dataset_path, "rowu", "disc")
+mSet <- SanityCheckData(mSet)
+mSet<-ReplaceMin(mSet)
+mSet <- RemoveMissingPercent(mSet, percent=0.80)
+#mSet <- ImputeMissingVar(mSet, method="svdImpute") #also compare with svdImpute
+mSet<-IsSmallSmplSize(mSet)
+mSet<-PreparePrenormData(mSet)
+mSet<-Normalization(mSet, "QuantileNorm", "LogNorm", "NULL", ref=NULL, ratio=FALSE, ratioNum=20)
+
+
+```
+
+```{r transformation QC}
+mSet<-PlotNormSummary(mSet, "feature_norm", format="png", dpi=300, width=0)
+mSet<-PlotSampleNormSummary(mSet, "sample_norm", format="pdf", width=NA)
+```
+
+```{r filtering and outlier detection}
+mSet <- FilterVariable(mSet, "mad", "F", 15)
+
+```
+
+

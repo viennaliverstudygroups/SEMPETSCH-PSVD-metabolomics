@@ -1,0 +1,40 @@
+---
+title: "02_Biomarkers_Discovery"
+author: "Oleksandr_Petrenko"
+date: "2022-09-23"
+output: html_document
+---
+
+```{r}
+if (!require("here")) install.packages("here")
+library("here")
+suppressMessages(source(here("R", "00_setup.R")))
+
+```
+
+```{r}
+dataset_path <- here("data", "R100289_METAB02_MEC078_20220901.csv")
+
+mSet <- InitDataObjects("conc", "stat", FALSE)
+mSet <- Read.TextData(mSet, dataset_path, "rowu", "disc")
+mSet <- SanityCheckData(mSet)
+mSet <- ReplaceMin(mSet)
+mSet <- IsSmallSmplSize(mSet)
+mSet <- PreparePrenormData(mSet)
+mSet <- Normalization(mSet, "NULL", "NULL", "NULL", "C01", ratio=TRUE, ratioNum=20)
+```
+
+```{r}
+mSet <- CalculateFeatureRanking(mSet)
+```
+
+
+```{r}
+mSet<-SetAnalysisMode(mSet, "univ")
+mSet<-PrepareROCData(mSet)
+```
+
+```{r}
+mSet<-Perform.UnivROC(mSet, feat.nm = "Aspartic Acid", "png", dpi=300, isAUC=F, isOpt=T, optMethod="closest.topleft", isPartial = F, measure="sp", cutoff=0.2)
+```
+
