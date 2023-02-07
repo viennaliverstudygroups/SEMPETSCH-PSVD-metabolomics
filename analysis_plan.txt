@@ -1,0 +1,10 @@
+1. Drop >20% NA;
+2. Input <20% NA (RF, kNN?)
+3. Detect outliers -> drop;
+3.1. Normalization
+3.2. Merging
+4. PCA/t-SNE
+4.1. top 20% loading metabolites -> heatmap;
+5. Differential expression -> Volcano
+6. Pathway enrichment
+
