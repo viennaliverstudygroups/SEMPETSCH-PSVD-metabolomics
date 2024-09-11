@@ -1,0 +1,550 @@
+OWLID,PLATFORM,VARIABLE OWL ID,CLASS,SUBCLASS A,SUBCLASS B,SUBCLASS C,COMMON NAME OR FUNCTION,INDIVIDUAL NOTATION,INDIVIDUAL COMPOSITION OR PROBABLE ID,SIMPLIFIED NAME,SIMPLE NAME,HMBD,KEGG,CHEMICAL FORMULA,COMMON NAME,BIOFUNCTION,CLASS (HMBD),SUPER CLASS (HMBD)
+AA02,Platform 3,AA02,Amino acids,non-essential,Glucogenic,,Glu,Glutamic Acid,,AA,AA,HMDB00148,C00025,C5H9NO4,L-Glutamic acid,Component of Alanine and aspartate metabolism,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA03,Platform 3,AA03,Amino acids,non-essential,Glucogenic,,Gly,Glycine,,AA,AA,HMDB00123,C00037,C2H5NO2,Glycine,Non-essential amino acid,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA04,Platform 3,AA04,Amino acids,non-essential,Glucogenic,,Ala,Alanine,,AA,AA,HMDB00161,C00041,C3H7NO2,L-Alanine,Component of Alanine and aspartate metabolism,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA05,Platform 3,AA05,Amino acids,non-essential,Glucogenic,,Ser,Serine,,AA,AA,HMDB00187,C00065,C3H7NO3,L-Serine,Component of Aminoacyl-tRNA biosynthesis,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA06,Platform 3,AA06,Amino acids,non-essential,Glucogenic,,Pro,Proline,,AA,AA,HMDB00162,C00148,C5H9NO2,L-Proline,Component of Arginine and proline metabolism,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA07,Platform 3,AA07,Amino acids,essential,Glucogenic,Branched-chain,Val,Valine,,AA,AA,HMDB00883,C00183,C5H11NO2,L-Valine,Component of Aminoacyl-tRNA biosynthesis,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA08,Platform 3,AA08,Amino acids,essential,Glucogenic-Ketogenic,,Thr,Threonine,,AA,AA,HMDB00167,C00188,C4H9NO3,L-Threonine,Component of Aminoacyl-tRNA biosynthesis,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA09,Platform 3,AA09,Amino acids,non-essential,,,Tau,Taurine,,AA,AA,HMDB00251,C00245,C2H7NO3S,Taurine,Component of Taurine and hypotaurine metabolism,Sulfonic Acids and Derivatives,Organic Acids and Derivatives
+AA10,Platform 3,AA10,Amino acids,essential,Glucogenic-Ketogenic,Branched-chain,Ile,Isoleucine,,AA,AA,HMDB00172,C00407,C6H13NO2,L-Isoleucine,Component of Aminoacyl-tRNA biosynthesis,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA11,Platform 3,AA11,Amino acids,essential,Ketogenic,Branched-chain,Leu,Leucine,,AA,AA,HMDB00687,C00123,C6H13NO2,L-Leucine,Essential amino acids,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA12,Platform 3,AA12,Amino acids,non-essential,Glucogenic,,Asn,Asparagine,,AA,AA,HMDB00168,C00152,C4H8N2O3,L-Asparagine,Component of Alanine and aspartate metabolism,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA13,Platform 3,AA13,Amino acids,non-essential,Glucogenic,,Asp,Aspartic Acid,,AA,AA,HMDB00191,C00049,C4H7NO4,L-Aspartic acid,Component of Alanine and aspartate metabolism,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA14,Platform 3,AA14,Amino acids,non-essential,Glucogenic,,Gln,Glutamine,,AA,AA,HMDB00641,C00064,C5H10N2O3,L-Glutamine,Component of Alanine and aspartate metabolism,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA15,Platform 3,AA15,Amino acids,essential,Ketogenic,,Lys,Lysine,,AA,AA,HMDB00182,C00047,C6H14N2O2,L-Lysine,Component of Aminoacyl-tRNA biosynthesis,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA16,Platform 3,AA16,Amino acids,essential,Glucogenic,,Met,Methionine,,AA,AA,HMDB00696,C00073,C5H11NO2S,L-Methionine,Component of Aminoacyl-tRNA biosynthesis,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA17,Platform 3,AA17,Amino acids,essential,Glucogenic,,His,Histidine,,AA,AA,HMDB00177,C00135,C6H9N3O2,L-Histidine,Component of Aminoacyl-tRNA biosynthesis,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA18,Platform 3,AA18,Amino acids,essential,Glucogenic-Ketogenic,Aromatic,Phe,Phenylalanine,,AA,AA,HMDB00159,C00079,C9H11NO2,L-Phenylalanine,Component of Aminoacyl-tRNA biosynthesis,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA19,Platform 3,AA19,Amino acids,non-essential,Glucogenic,,Arg,Arginine,,AA,AA,HMDB00517,C00062,C6H14N4O2,L-Arginine,Component of Alanine and aspartate metabolism,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA20,Platform 3,AA20,Amino acids,conditionally essential (phenylalanine),Glucogenic-Ketogenic,Aromatic - exclusive liver synthesis ,Tyr,Tyrosine,,AA,AA,HMDB00158,C00082,C9H11NO3,L-Tyrosine,Component of Aminoacyl-tRNA biosynthesis,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA21,Platform 3,AA21,Amino acids,essential,Glucogenic-Ketogenic,Aromatic,Trp,Tryptophan,,AA,AA,HMDB00929,C00078,C11H12N2O2,L-Tryptophan,Component of Aminoacyl-tRNA biosynthesis,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA22,Platform 3,AA22,Amino Acids and Derivatives,Alpha Amino Acids and Derivatives,,Amino acid derivatives,,Sarcosine,,AA,AA,HMDB00271,C00213,C3H7NO2,Sarcosine,"Component of Glycine, serine and threonine metabolism",Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA23,Platform 3,AA23,Amino acid derivatives,essential,Alpha Amino Acids and Derivatives,,Cys-Cys,Cystine,,AA,AA,HMDB00192,C00491,C6H12N2O4S2,L-Cystine,Essential amino acid,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA25,Platform 3,AA25,Peptides,Dipeptide,,,,Gly-DL-Phe,,AA,AA,HMDB28848,,C11H14N2O3,Glycyl-Phenylalanine,Not Available,Peptides,"Amino Acids, Peptides, and Analogues"
+AA26,Platform 3,AA26,Sulfinic Acids and Derivatives,Sulfinic Acids,,Amino acid derivatives,,Hypotaurine,,AA,AA,HMDB00965,C00519,C2H7NO2S,Hypotaurine,Component of Taurine and hypotaurine metabolism,Sulfinic Acids and Derivatives,Organic Acids and Derivatives
+AA27,Platform 3,AA27,Amino Acids and Derivatives,Gamma Amino Acids and Derivatives,,Amino acid derivatives,GABA. Gamma-aminobutyric acid promotes human hepatocellular carcinoma growth through overexpressed gamma-aminobutyric acid A receptor α3 subunit (World J Gastroenterol. 2008 December 21; 14(47): 7175–7182. Inhibits synapses in the adult brain but excites synapses the developing brain.,Gamma-Aminobutyric acid,,AA,AA,HMDB00112,C00334,C4H9NO2,Gamma-Aminobutyric acid,Component of Alanine and aspartate metabolism,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA28,Platform 3,AA28,Amino Acids and Derivatives,Alpha Amino Acids and Derivatives,,Amino acid derivatives,,DL-2-Aminoadipic acid,,AA,AA,HMDB00510,C00956,C6H11NO4,Aminoadipic acid,"Protein synthesis, amino acid biosynthesis",Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA29,Platform 3,AA29,Amino Acids and Derivatives,Alpha Amino Acids and Derivatives,,Amino acid derivatives,,Kynurenine,,AA,AA,HMDB00684,C00328,C10H12N2O3,L-Kynurenine,Component of Tryptophan metabolism,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA30,Platform 3,AA30,Peptides,Dipeptide,,,,Phe-Phe,,AA,AA,HMDB13302,,C18H20N2O3,Phenylalanylphenylalanine,Not Available,Peptides,"Amino Acids, Peptides, and Analogues"
+AA31,Platform 3,AA31,Peptides,Dipeptide,,,,Asp-Phe,,AA,AA,HMDB00706,,C13H16N2O5,L-Aspartyl-L-phenylalanine,Not Available,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA32,Platform 3,AA32,Peptides,Dipeptide,,,,Gly-Gly,,AA,AA,HMDB11733,C02037,C4H8N2O3,Glycyl-glycine,Not Available,Peptides,"Amino Acids, Peptides, and Analogues"
+AA34,Platform 3,AA34,Amino Acids and Derivatives,Alpha Amino Acids and Derivatives,,Amino acid derivatives,,L-Citrulline,,AA,AA,HMDB00904,C00327,C6H13N3O3,Citrulline,Component of Alanine and aspartate metabolism,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA36,Platform 3,AA36,Amino Acids and Derivatives,Alpha Amino Acids and Derivatives,,Amino acid derivatives,,L-Homoserine,,AA,AA,HMDB00719,C00263,C4H9NO3,L-Homoserine,"Protein synthesis, amino acid biosynthesis",Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AA44,Platform 3,AA44,AA derivative,essential,,,Cys-Cys,Cystine-double charge,,AA,AA,HMDB00192,C00491,C6H12N2O4S2,L-Cystine,Essential amino acid,Amino Acids and Derivatives,"Amino Acids, Peptides, and Analogues"
+AC01,Platform 1,AC01,Fatty esters,Acylcarnitines,,,Hexanoylcarnitine,AC(6:0),,AC,AC,HMDB00705,,C13H25NO4,Hexanoylcarnitine,Cell signaling,Fatty Acid Esters,Lipids
+AC02,Platform 1,AC02,Fatty esters,Acylcarnitines,,,L-Octanoylcarnitine,AC(8:0),,AC,AC,HMDB00791,C02838,C15H29NO4,L-Octanoylcarnitine,Cell signaling,Fatty Acid Esters,Lipids
+AC04,Platform 1,AC04,Fatty esters,Acylcarnitines,,,Decanoylcarnitine ,AC(10:0),,AC,AC,HMDB00651,,C17H33NO4,Decanoylcarnitine,Cell signaling,Fatty Acid Esters,Lipids
+AC05,Platform 1,AC05,Fatty esters,Acylcarnitines,,,Dodecanoylcarnitine,AC(12:0),,AC,AC,HMDB02250,,C19H37NO4,Dodecanoylcarnitine,Cell signaling,Fatty Acid Esters,Lipids
+AC06,Platform 1,AC06,Fatty esters,Acylcarnitines,,,,,AC(14:1n-x),AC,AC,,,,,,,
+AC07,Platform 1,AC07,Fatty esters,Acylcarnitines,,,,,AC(8:1n-x),AC,AC,,,,,,,
+AC08,Platform 1,AC08,Fatty esters,Acylcarnitines,,,,,AC(10:1n-x),AC,AC,,,,,,,
+AC09,Platform 1,AC09,Fatty esters,Acylcarnitines,,,,,AC(12:1n-x),AC,AC,,,,,,,
+AC10,Platform 1,AC10,Fatty esters,Acylcarnitines,,,Arachidyl carnitine,AC(18:2n-6),,AC,AC,HMDB06460,,C27H53NO4,Arachidyl carnitine,Cell signaling,Fatty Acid Esters,Lipids
+AC11,Platform 1,AC11,Fatty esters,Acylcarnitines,,,Oleoylcarnitine,AC(18:1n-9),,AC,AC,HMDB05065,,C25H47NO4,Oleoylcarnitine,Cell signaling,Fatty Acid Esters,Lipids
+AC13,Platform 1,AC13,Fatty esters,Acylcarnitines,,,,,AC(10:1n-x),AC,AC,,,,,,,
+AC14,Platform 1,AC14,Fatty esters,Acylcarnitines,,,Tetradecanoylcarnitine,AC(14:0),,AC,AC,HMDB05066,,C21H41NO4,Tetradecanoylcarnitine,Cell signaling,Fatty Acid Esters,Lipids
+AC15,Platform 1,AC15,Fatty esters,Acylcarnitines,,,,,AC(14:2n-x),AC,AC,,,,,,,
+AC16,Platform 1,AC16,Fatty esters,Acylcarnitines,,,L-Palmitoylcarnitine,AC(16:0),,AC,AC,HMDB00222,C02990,C23H45NO4,L-Palmitoylcarnitine,Cell signaling,Fatty Acid Esters,Lipids
+AC17,Platform 1,AC17,Fatty esters,Acylcarnitines,,,,,AC(16:1n-x),AC,AC,,,,,,,
+AC18,Platform 1,AC18,Fatty esters,Acylcarnitines,,,Stearoylcarnitine,AC(18:0),,AC,AC,HMDB00848,,C25H49NO4,Stearoylcarnitine,Cell signaling,Fatty Acid Esters,Lipids
+AC19,Platform 1,AC19,Fatty esters,Acylcarnitines,,,,,AC(20:4n-x),AC,AC,,,,,,,
+BA03,Platform 1,BA03,Bile acids,Primary bile acids,,,CA (31% bile),Cholic acid,,BA,BA,HMDB00619,C00695,C24H40O5,Cholic acid,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA04,Platform 1,BA04,Bile acids,Secondary bile acids,,,DCA,Deoxycholic acid,,BA,BA,HMDB00626,C04483,C24H40O4,Deoxycholic acid,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA05,Platform 1,BA05,Bile acids,Primary bile acids,,,CDCA (45%bile),Chenodeoxycholic acid,,BA,BA,HMDB00518,C02528,C24H40O4,Chenodeoxycholic acid,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA06_BA07,Platform 1,BA06_BA07,Bile acids,,,,UDCA + HDCA,Ursodeoxycholic + Hyodeoxycholic acid,,BA,BA,HMDB00946,C07880,C24H40O4,Ursodeoxycholic acid,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA08,Platform 1,BA08,Bile acids,Secondary bile acids,,,LCA,Lithocholic acid,,BA,BA,HMDB00761,C03990,C24H40O3,Lithocholic acid,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA09,Platform 1,BA09,Bile acids,Taurine-conjugated bile acids,,,TCA,Taurocholic acid,,BA,BA,HMDB00036,C05122,C26H45NO7S,Taurocholic acid,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA10,Platform 1,BA10,Bile acids,Taurine-conjugated bile acids,,,TDCA,Taurodeoxycholic acid,,BA,BA,HMDB00896,C05463,C26H45NO6S,Taurodeoxycholic acid,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA11,Platform 1,BA11,Bile acids,Taurine-conjugated bile acids,,,TCDCA,Taurochenodeoxycholic acid,,BA,BA,HMDB00951,C05465,C26H45NO6S,Taurochenodesoxycholic acid,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA12_BA13,Platform 1,BA12_BA13,Bile acids,Taurine-conjugated bile acids,,,TUDCA + THDCA,Tauroursodeoxycholic + Taurohyodeoxycholic acid,,BA,BA,HMDB00874,,C26H45NO6S,Tauroursodeoxycholic acid,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA14,Platform 1,BA14,Bile acids,Taurine-conjugated bile acids,,,TLCA,Taurolithocholic acid,,BA,BA,HMDB00722,C02592,C26H45NO5S,Lithocholyltaurine,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA15,Platform 1,BA15,Bile acids,Glycine-conjugated bile acids,,,GCA,Glycocholic acid,,BA,BA,HMDB00138,C01921,C26H43NO6,Glycocholic acid,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA16H,Platform 1,BA16H,Bile acids,Glycine-conjugated bile acids,,,GCDCA,Glycochenodeoxycholic acid,,BA,BA,HMDB00637,C05466,C26H43NO5,Chenodeoxycholic acid glycine conjugate,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA17H,Platform 1,BA17H,Bile acids,Glycine-conjugated bile acids,,,GUDCA,Glycoursodeoxycholic acid,,BA,BA,HMDB00708,,C26H43NO5,Glycoursodeoxycholic acid,Cell signaling,Steroids and Steroid Derivatives,Lipids
+BA18,Platform 1,BA18,Bile acids,Glycine-conjugated bile acids,,,GDCA,Glycodeoxycholic acid,,BA,BA,HMDB00631,C05464,C26H43NO5,Deoxycholic acid glycine conjugate,Cell signaling,Steroids and Steroid Derivatives,Lipids
+Cer_02,Platform 2,Cer_02,Sphingolipids,Ceramides,CER[NS],Sphingoid base d18:1,,Cer(d18:1/16:0),,Cer,Cer,HMDB04949,C00195,C34H67NO3,Ceramide (d18:1/16:0),Cell signaling,Sphingolipids,Lipids
+Cer_03,Platform 2,Cer_03,Sphingolipids,Ceramides,CER[NS],Sphingoid base d18:1,,Cer(d18:1/20:0),,Cer,Cer,HMDB04951,C00195,C38H75NO3,Ceramide (d18:1/20:0),Cell signaling,Sphingolipids,Lipids
+Cer_04,Platform 2,Cer_04,Sphingolipids,Ceramides,CER[NS],Sphingoid base d18:1,,Cer(d18:1/21:0),,Cer,Cer,,,,,,,
+Cer_05,Platform 2,Cer_05,Sphingolipids,Ceramides,CER[NS],Sphingoid base d18:1,,Cer(d18:1/22:0),,Cer,Cer,HMDB04952,C00195,C40H79NO3,Ceramide (d18:1/22:0),Cell signaling,Sphingolipids,Lipids
+Cer_06,Platform 2,Cer_06,Sphingolipids,Ceramides,CER[NS],Mixed sphingoid base,,Cer(40:2),Cer(d18:1/22:1) + Cer(d18:2/22:0),Cer,Cer,,,,,,,
+Cer_07,Platform 2,Cer_07,Sphingolipids,Ceramides,CER[NS],Sphingoid base d18:1,,Cer(d18:1/23:0),,Cer,Cer,HMDB00950,,C41H81NO3,Cer(d18:1/23:0),Cell signaling,Sphingolipids,Lipids
+Cer_08,Platform 2,Cer_08,Sphingolipids,Ceramides,CER[NS],Sphingoid base d18:2,,Cer(d18:2/23:0),,Cer,Cer,,,,,,,
+Cer_09,Platform 2,Cer_09,Sphingolipids,Ceramides,CER[NS],Sphingoid base d18:1,,Cer(d18:1/24:0),,Cer,Cer,HMDB04956,C00195,C42H83NO3,Ceramide (d18:1/24:0),Cell signaling,Sphingolipids,Lipids
+Cer_10_Cer_11,Platform 2,Cer_10_Cer_11,Sphingolipids,Ceramides,CER[NS],Mixed sphingoid base,,Cer(d18:1/24:1)+Cer(d18:2/24:0),,Cer,Cer,,,,,,,
+Cer_12,Platform 2,Cer_12,Sphingolipids,Ceramides,CER[NS],Mixed sphingoid base,,Cer(42:3),Cer(d18:2/24:1) + Cer(d18:1/24:2),Cer,Cer,,,,,,,
+Cer_13,Platform 2,Cer_13,Sphingolipids,Ceramides,CER[NS],Sphingoid base d18:1,,Cer(d18:1/18:0),,Cer,Cer,HMDB04950,C00195,C36H71NO3,Ceramide (d18:1/18:0),Cell signaling,Sphingolipids,Lipids
+Cer_14,Platform 2,Cer_14,Sphingolipids,Ceramides,CER[NS] + CER[NDS],Mixed sphingoid base,,Cer(d43:1),Cer(d18:0/25:1) + Cer(d19:1/24:0),Cer,Cer,,,,,,,
+Cer_15,Platform 2,Cer_15,Sphingolipids,Ceramides,CER[NS],Sphingoid base d18:1,,Cer(d18:1/25:0),,Cer,Cer,HMDB04957,C00195,C43H85NO3,Ceramide (d18:1/25:0),Cell signaling,Sphingolipids,Lipids
+CMH_01,Platform 2,CMH_01,Sphingolipids,Monohexosylceramides,CMH[NS],Sphingoid base d18:1,,CMH(d18:1/16:0),,CMH,CMH,HMDB04971,C01190,C40H77NO8,Glucosylceramide (d18:1/16:0),Cell signaling,Sphingolipids,Lipids
+CMH_02,Platform 2,CMH_02,Sphingolipids,Monohexosylceramides,CMH[NS],Sphingoid base d18:1,,CMH(d18:1/22:0),,CMH,CMH,HMDB04974,C01190,C46H89NO8,Glucosylceramide (d18:1/22:0),Cell signaling,Sphingolipids,Lipids
+CMH_03,Platform 2,CMH_03,Sphingolipids,Monohexosylceramides,CMH[NS],Sphingoid base d18:1,,CMH(d18:1/24:0),,CMH,CMH,HMDB04978,,C48H93NO8,Glucosylceramide (d18:1/24:0),Cell signaling,Sphingolipids,Lipids
+CMH_04,Platform 2,CMH_04,Sphingolipids,Monohexosylceramides,CMH[NS],Sphingoid base d18:1,,CMH(d18:1/24:1),,CMH,CMH,HMDB04975,C01190,C48H91NO8,Glucosylceramide (d18:1/24:1(15Z)),Cell signaling,Sphingolipids,Lipids
+CMH_09,Platform 1,CMH_09,Sphingolipids,Monohexosylceramides,CMH[NS],Sphingoid base d18:1,,CMH(d18:1/23:0) ,,CMH,CMH,,,,,,,
+Cho_01,Platform 2,Cho_01,Sterols,Cholesterol and derivatives,,,,Cholesterol,,Cho,Cho,HMDB00067,C00187,C27H46O,Cholesterol,Cell signaling,Steroids and Steroid Derivatives,Lipids
+Cho_02,Platform 2,Cho_02,Sterols,Cholesterol and derivatives,,,,Cholesterol sulfate,,Cho,Cho,HMDB00653,C18043,C27H46O4S,Cholesterol sulfate,Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_03,Platform 2,ChoE_03,Sterols,Cholesteryl Ester,,,,ChoE(16:0),,ChoE,ChoE,HMDB00885,C11251,C43H76O2,CE(16:0),Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_04,Platform 2,ChoE_04,Sterols,Cholesteryl Ester,,,,ChoE(16:1),,ChoE,ChoE,HMDB00658,C02530,C43H74O2,CE(16:1(9Z)),Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_05,Platform 2,ChoE_05,Sterols,Cholesteryl Ester,,,,ChoE(17:0),,ChoE,ChoE,,,,,,,
+ChoE_06,Platform 2,ChoE_06,Sterols,Cholesteryl Ester,,,,ChoE(18:0),,ChoE,ChoE,HMDB10368,C02530,C45H80O2,CE(18:0),Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_07,Platform 2,ChoE_07,Sterols,Cholesteryl Ester,,,,ChoE(18:1),,ChoE,ChoE,HMDB00918,C14641,C45H78O2,CE(18:1(9Z)),Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_08,Platform 2,ChoE_08,Sterols,Cholesteryl Ester,,,,ChoE(18:2),,ChoE,ChoE,HMDB00610,C15441,C45H76O2,"CE(18:2(9Z,12Z))",Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_09,Platform 2,ChoE_09,Sterols,Cholesteryl Ester,,,,ChoE(18:3),,ChoE,ChoE,HMDB10370,C02530,C45H74O2,"CE(18:3(9Z,12Z,15Z))",Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_10,Platform 2,ChoE_10,Sterols,Cholesteryl Ester,,,,ChoE(20:2),,ChoE,ChoE,HMDB06734,C02530,C47H80O2,"CE(20:2(6Z,9Z))",Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_11,Platform 2,ChoE_11,Sterols,Cholesteryl Ester,,,,ChoE(20:3),,ChoE,ChoE,HMDB10373,,C47H78O2,"CE(20:3(5Z,8Z,11Z))",Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_12,Platform 2,ChoE_12,Sterols,Cholesteryl Ester,,,,ChoE(20:4),,ChoE,ChoE,HMDB06726,C02530,C47H76O2,"CE(20:4(5Z,8Z,11Z,14Z)",Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_13,Platform 2,ChoE_13,Sterols,Cholesteryl Ester,,,,ChoE(20:5),,ChoE,ChoE,HMDB06731,C02530,C47H74O2,"CE(20:5(5Z,8Z,11Z,14Z,17Z)",Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_14,Platform 2,ChoE_14,Sterols,Cholesteryl Ester,,,,ChoE(22:4),,ChoE,ChoE,HMDB06729,C02530,C49H80O2,"CE(22:4(7Z,10Z,13Z,16Z)",Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_15,Platform 2,ChoE_15,Sterols,Cholesteryl Ester,,,,ChoE(22:5),,ChoE,ChoE,HMDB10375,,C49H78O2,"CE(22:5(7Z,10Z,13Z,16Z,19Z))",Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_17,Platform 2,ChoE_17,Sterols,Cholesteryl Ester,,,,ChoE(22:6),,ChoE,ChoE,HMDB06733,C02530,C49H76O2,"CE(22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Cell signaling,Steroids and Steroid Derivatives,Lipids
+ChoE_18,Platform 2,ChoE_18,Sterols,Cholesteryl Ester,,,,ChoE(17:1),,ChoE,ChoE,,,,,,,
+DAPC03,Platform 2,DAPC03,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(16:0/16:0),,PC_DAPC,PC,HMDB00564,C00157,C40H80NO8P,PC(16:0/16:0),Cell signaling,Glycerophospholipids,Lipids
+DAPC04,Platform 2,DAPC04,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(32:1),PC(16:0/16:1) + PC(14:1/18:0) + PC(14:0/18:1),PC_DAPC,PC,,,,,,,
+DAPC05,Platform 2,DAPC05,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(14:0/18:2),,PC_DAPC,PC,HMDB07874,C00157,C40H76NO8P,"PC(14:0/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC06,Platform 2,DAPC06,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(16:0/18:0),,PC_DAPC,PC,HMDB07970,C00157,C42H84NO8P,PC(16:0/18:0),Cell signaling,Glycerophospholipids,Lipids
+DAPC07,Platform 2,DAPC07,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(16:0/18:1),,PC_DAPC,PC,HMDB07972,C00157,C42H82NO8P,PC(16:0/18:1(9Z)),Cell signaling,Glycerophospholipids,Lipids
+DAPC08,Platform 2,DAPC08,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(16:0/18:2),,PC_DAPC,PC,HMDB07973,C00157,C42H80NO8P,"PC(16:0/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC09,Platform 2,DAPC09,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(14:0/20:4),,PC_DAPC,PC,HMDB07883,C00157,C42H76NO8P,"PC(14:0/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC11,Platform 2,DAPC11,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(18:0/18:1),,PC_DAPC,PC,HMDB08038,C00157,C44H86NO8P,PC(18:0/18:1(9Z)),Cell signaling,Glycerophospholipids,Lipids
+DAPC12,Platform 2,DAPC12,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(18:0/18:2),,PC_DAPC,PC,HMDB08039,C00157,C44H84NO8P,"PC(18:0/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC13,Platform 2,DAPC13,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(18:2/18:2),,PC_DAPC,PC,HMDB08138,C00157,C44H80NO8P,"PC(18:2(9Z,12Z)/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC14,Platform 2,DAPC14,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(16:0/20:4),,PC_DAPC,PC,HMDB07982,C00157,C44H80NO8P,"PC(16:0/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC15,Platform 2,DAPC15,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(16:0/20:5),,PC_DAPC,PC,HMDB07984,C00157,C44H78NO8P,"PC(16:0/20:5(5Z,8Z,11Z,14Z,17Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC16,Platform 2,DAPC16,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(18:3/18:3),,PC_DAPC,PC,HMDB08206,C00157,C44H76NO8P,"PC(18:3(9Z,12Z,15Z)/18:3(9Z,12Z,15Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC17,Platform 2,DAPC17,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(20:0/18:2),,PC_DAPC,PC,HMDB08270,C00157,C46H88NO8P,"PC(20:0/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC18,Platform 2,DAPC18,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(18:0/20:3),,PC_DAPC,PC,HMDB08046,C00157,C46H86NO8P,"PC(18:0/20:3(5Z,8Z,11Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC19,Platform 2,DAPC19,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(18:0/20:4),,PC_DAPC,PC,HMDB08048,C00157,C46H84NO8P,"PC(18:0/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC20,Platform 2,DAPC20,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(38:5),PC(18:1/20:4) + PC(16:0/22:5),PC_DAPC,PC,,,,,,,
+DAPC21,Platform 2,DAPC21,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(38:5),PC(18:0/20:5) + PC(16:0/22:5),PC_DAPC,PC,,,,,,,
+DAPC23,Platform 2,DAPC23,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(18:2/20:4),,PC_DAPC,PC,HMDB08147,C00157,C46H80NO8P,"PC(18:2(9Z,12Z)/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC24,Platform 2,DAPC24,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(16:0/22:6),,PC_DAPC,PC,HMDB07991,C00157,C46H80NO8P,"PC(16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC26,Platform 2,DAPC26,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(18:0/22:4),,PC_DAPC,PC,HMDB08054,C00157,C48H88NO8P,"PC(18:0/22:4(7Z,10Z,13Z,16Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC27,Platform 2,DAPC27,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(20:0/20:4),,PC_DAPC,PC,HMDB08279,C00157,C48H88NO8P,"PC(20:0/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC28,Platform 2,DAPC28,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(40:5),,PC_DAPC,PC,,,,,,,
+DAPC29,Platform 2,DAPC29,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(18:0/22:5),,PC_DAPC,PC,HMDB08056,C00157,C48H86NO8P,"PC(18:0/22:5(7Z,10Z,13Z,16Z,19Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC30,Platform 2,DAPC30,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(18:0/22:6),,PC_DAPC,PC,HMDB08057,C00157,C48H84NO8P,"PC(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC31,Platform 2,DAPC31,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(20:3/20:4),,PC_DAPC,PC,HMDB08378,C00157,C48H82NO8P,"PC(20:3(5Z,8Z,11Z)/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC32,Platform 2,DAPC32,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(18:1/22:6),,PC_DAPC,PC,HMDB08123,C00157,C48H82NO8P,"PC(18:1(9Z)/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC34,Platform 2,DAPC34,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(40:8),PC(20:4/20:4) + PC(18:2/22:6) + PC(18:0/22:8),PC_DAPC,PC,,,,,,,
+DAPC37,Platform 2,DAPC37,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(22:4/20:4),,PC_DAPC,PC,HMDB08640,C00157,C50H84NO8P,"PC(22:4(7Z,10Z,13Z,16Z)/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC38,Platform 2,DAPC38,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(16:1/18:2),,PC_DAPC,PC,HMDB08006,C00157,C42H78NO8P,"PC(16:1(9Z)/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPC39_DAPC40,Platform 2,DAPC39_DAPC40,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(34:3),,PC_DAPC,PC,,,,,,,
+DAPC41_DAPC42,Platform 2,DAPC41_DAPC42,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(36:3),,PC_DAPC,PC,,,,,,,
+DAPC44,Platform 2,DAPC44,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(16:1/20:4),,PC_DAPC,PC,,,,,,,
+DAPC45,Platform 2,DAPC45,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(31:0),,PC_DAPC,PC,,,,,,,
+DAPE02,Platform 2,DAPE02,Glycerophospholipids,Diacylglycerophosphoethanolamine,,,,PE(16:0/18:1),,PE_DAPE,PE,HMDB08927,C00350,C39H76NO8P,PE(16:0/18:1(9Z)),Cell signaling,Glycerophospholipids,Lipids
+DAPE03,Platform 2,DAPE03,Glycerophospholipids,Diacylglycerophosphoethanolamine,,,,PE(16:0/18:2),,PE_DAPE,PE,HMDB08928,C00350,C39H74NO8P,"PE(16:0/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPE04,Platform 2,DAPE04,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(16:0/17:0),,PC_DAPC,PC,,,,,,,
+DAPE05,Platform 2,DAPE05,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(33:1),PC(15:0/18:1) + PC(16:0/17:1),PC_DAPC,PC,,,,,,,
+DAPE06,Platform 2,DAPE06,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(15:0/18:2),,PC_DAPC,PC,HMDB07940,C00157,C41H78NO8P,"PC(15:0/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPE07,Platform 2,DAPE07,Glycerophospholipids,Diacylglycerophosphoethanolamine,,,,PE(18:1/18:2),,PE_DAPE,PE,HMDB09060,C00350,C41H76NO8P,"PE(18:1(9Z)/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPE08,Platform 2,DAPE08,Glycerophospholipids,Diacylglycerophosphoethanolamine,,,,PE(16:0/20:4),,PE_DAPE,PE,HMDB08937,C00350,C41H74NO8P,"PE(16:0/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPE09,Platform 2,DAPE09,Glycerophospholipids,Diacylglycerophosphoethanolamine,,,,PE(18:2/18:2),,PE_DAPE,PE,HMDB09093,C00350,C41H74NO8P,"PE(18:2(9Z,12Z)/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPE10,Platform 2,DAPE10,Glycerophospholipids,Diacylglycerophosphoethanolamine,,,,PE(20:5/16:0),,PE_DAPE,PE,HMDB09451,C00350,C41H72NO8P,"PE(20:5(5Z,8Z,11Z,14Z,17Z)/16:0)",Cell signaling,Glycerophospholipids,Lipids
+DAPE11,Platform 2,DAPE11,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(17:0/18:1),,PC_DAPC,PC,,,,,,,
+DAPE12,Platform 2,DAPE12,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(16:0/19:1),,PC_DAPC,PC,,,,,,,
+DAPE13,Platform 2,DAPE13,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(17:1/18:1),,PC_DAPC,PC,,,,,,,
+DAPE14,Platform 2,DAPE14,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(17:0/18:2),,PC_DAPC,PC,,,,,,,
+DAPE15,Platform 2,DAPE15,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(17:1/18:2),,PC_DAPC,PC,,,,,,,
+DAPE16,Platform 2,DAPE16,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(15:0/20:3),,PC_DAPC,PC,HMDB07947,C00157,C43H80NO8P,"PC(15:0/20:3(5Z,8Z,11Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPE17,Platform 2,DAPE17,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(15:0/20:4),,PC_DAPC,PC,HMDB07949,C00157,C43H78NO8P,"PC(15:0/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPE18,Platform 2,DAPE18,Glycerophospholipids,Diacylglycerophosphoethanolamine,,,,PE(18:0/20:4),,PE_DAPE,PE,HMDB09003,C00350,C43H78NO8P,"PE(18:0/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPE19,Platform 2,DAPE19,Glycerophospholipids,Diacylglycerophosphoethanolamine,,,,PE(38:5),PE(18:1/20:4) + PE(16:0/22:5),PE_DAPE,PE,,,,,,,
+DAPE20,Platform 2,DAPE20,Glycerophospholipids,Diacylglycerophosphoethanolamine,,,,PE(20:4/18:2),,PE_DAPE,PE,HMDB09390,C00350,C43H74NO8P,"PE(20:4(5Z,8Z,11Z,14Z)/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPE21,Platform 2,DAPE21,Glycerophospholipids,Diacylglycerophosphoethanolamine,,,,PE(16:0/22:6),,PE_DAPE,PE,HMDB08946,C00350,C43H74NO8P,"PE(16:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPE23,Platform 2,DAPE23,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(37:2),,PC_DAPC,PC,,,,,,,
+DAPE24,Platform 2,DAPE24,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(19:1/18:2),,PC_DAPC,PC,,,,,,,
+DAPE25,Platform 2,DAPE25,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(17:0/20:3),,PC_DAPC,PC,,,,,,,
+DAPE26,Platform 2,DAPE26,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(17:0/20:4),,PC_DAPC,PC,,,,,,,
+DAPE28,Platform 2,DAPE28,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(37:5),PC(17:1/20:4) + PC(15:0/22:5),PC_DAPC,PC,,,,,,,
+DAPE29,Platform 2,DAPE29,Glycerophospholipids,Diacylglycerophosphoethanolamine,,,,PE(18:0/22:6),,PE_DAPE,PE,HMDB09012,C00350,C45H78NO8P,"PE(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPE30,Platform 2,DAPE30,Glycerophospholipids,Diacylglycerophosphocholine,,,,PC(15:0/22:6),,PC_DAPC,PC,HMDB07958,C00157,C45H78NO8P,"PC(15:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPI01,Platform 2,DAPI01,Glycerophospholipids,Diacylglycerophosphoinositol,,,,PI(16:0/18:1),,PI_DAPI,PI,HMDB09783,C00626,C43H81O13P,PI(16:0/18:1(9Z)),Cell signaling,Glycerophospholipids,Lipids
+DAPI02,Platform 2,DAPI02,Glycerophospholipids,Diacylglycerophosphoinositol,,,,PI(16:0/18:2),,PI_DAPI,PI,HMDB09784,C00626,C43H79O13P,"PI(16:0/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPI03,Platform 2,DAPI03,Glycerophospholipids,Diacylglycerophosphoinositol,,,,PI(18:0/18:1),,PI_DAPI,PI,HMDB09837,C00626,C45H83O13P,PI(18:1(9Z)/18:1(9Z)),Cell signaling,Glycerophospholipids,Lipids
+DAPI04,Platform 2,DAPI04,Glycerophospholipids,Diacylglycerophosphoinositol,,,,PI(18:0/18:2),,PI_DAPI,PI,HMDB09809,C00626,C45H83O13P,"PI(18:0/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPI05,Platform 2,DAPI05,Glycerophospholipids,Diacylglycerophosphoinositol,,,,PI(18:0/20:3),,PI_DAPI,PI,HMDB09813,C00626,C47H85O13P,"PI(18:0/20:3(5Z,8Z,11Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPI06,Platform 2,DAPI06,Glycerophospholipids,Diacylglycerophosphoinositol,,,,PI(18:0/20:4),,PI_DAPI,PI,HMDB09815,C00626,C47H83O13P,"PI(18:0/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPI07,Platform 2,DAPI07,Glycerophospholipids,Diacylglycerophosphoinositol,,,,PI(16:0/20:4),,PI_DAPI,PI,HMDB09789,C00626,C45H79O13P,"PI(16:0/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+DAPI11,Platform 2,DAPI11,Glycerophospholipids,Diacylglycerophosphoinositol,,,,PI(18:0/22:6),,PI_DAPI,PI,HMDB09821,C00626,C49H83O13P,"PI(18:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Cell signaling,Glycerophospholipids,Lipids
+DG02,Platform 2,DG02,Glycerolipids,Diacylglyceride,,,,DG(32:0),DG(16:0+16:0+0:0),DAG,DAG,,,,,,,
+DG03,Platform 2,DG03,Glycerolipids,Diacylglyceride,,,,DG(32:1),DG(16:0+16:1+0:0)+ DG (14:0+18:1+0:0),DAG,DAG,,,,,,,
+DG04,Platform 2,DG04,Glycerolipids,Diacylglyceride,,,,DG(32:2),DG(14:0+18:2+0:0),DAG,DAG,,,,,,,
+DG05,Platform 2,DG05,Glycerolipids,Diacylglyceride,,,,DG(34:0),DG(16:0+18:0+0:0),DAG,DAG,,,,,,,
+DG06,Platform 2,DG06,Glycerolipids,Diacylglyceride,,,,DG(34:1),DG(16:0+18:1+0:0),DAG,DAG,,,,,,,
+DG07,Platform 2,DG07,Glycerolipids,Diacylglyceride,,,,DG(34:2),DG(16:0+18:2+0:0),DAG,DAG,,,,,,,
+DG08,Platform 2,DG08,Glycerolipids,Diacylglyceride,,,,DG(36:2),DG(18:1+18:1+0:0),DAG,DAG,,,,,,,
+DG09,Platform 2,DG09,Glycerolipids,Diacylglyceride,,,,DG(36:3),DG(18:1+18:2+0:0),DAG,DAG,,,,,,,
+DG10,Platform 2,DG10,Glycerolipids,Diacylglyceride,,,,DG(36:4),DG(18:2+18:2+0:0),DAG,DAG,,,,,,,
+DG12,Platform 2,DG12,Glycerolipids,Diacylglyceride,,,,DG(36:4),DG(16:0+20:4+0:0),DAG,DAG,,,,,,,
+FAA01,Platform 2,FAA01,Fatty amides,Primary amides,Fatty acid amides,,Tetradecanamide,14:0 amide,,FAA,FAA,,,,,,,
+FAA02,Platform 2,FAA02,Fatty amides,Primary amides,Fatty acid amides,,Hexadecanamide (Palmitamide),16:0 amide,,FAA,FAA,HMDB12273,,C16H33NO,Palmitic amide,Cell signaling,Fatty Amides,Lipids
+FAA04,Platform 2,FAA04,Fatty amides,Primary amides,Fatty acid amides,,Octadecanamide (Stearamide) ,18:0 amide,,FAA,FAA,HMDB34146,C13846,C18H37NO,Octadecanamide,Cell signaling,Fatty Amides,Lipids
+FAA05,Platform 2,FAA05,Fatty amides,Primary amides,Fatty acid amides,,9Z-octadecenamide (Oleamide),18:1n-9 amide,,FAA,FAA,HMDB02117,C19670,C18H35NO,Oleamide,Cell signaling,Fatty Amides,Lipids
+FAA06,Platform 2,FAA06,Fatty amides,Primary amides,Fatty acid amides,,,20:0 amide,,FAA,FAA,,,,,,,
+FAA07,Platform 2,FAA07,Fatty amides,Primary amides,Fatty acid amides,,,,20:1n-x amide,FAA,FAA,,,,,,,
+FAA08,Platform 2,FAA08,Fatty amides,Primary amides,Fatty acid amides,,,,20:2n-x amide,FAA,FAA,,,,,,,
+FAA09,Platform 2,FAA09,Fatty amides,Primary amides,Fatty acid amides,,,,21:1n-x amide,FAA,FAA,,,,,,,
+FAA10,Platform 2,FAA10,Fatty amides,Primary amides,Fatty acid amides,,Docosanamide (Behenamide),22:0 amide,,FAA,FAA,HMDB00583,,C22H45NO,Docosanamide,Cell signaling,Fatty Amides,Lipids
+FAA11,Platform 2,FAA11,Fatty amides,Primary amides,Fatty acid amides,,,,22:2n-x amide,FAA,FAA,,,,,,,
+FAA13,Platform 2,FAA13,Fatty amides,Primary amides,Fatty acid amides,,,,23:1n-x amide,FAA,FAA,,,,,,,
+FAA14,Platform 2,FAA14,Fatty amides,Primary amides,Fatty acid amides,,,,24:1n-x amide,FAA,FAA,,,,,,,
+FFA02,Platform 1,FFA02,Non-esterified fatty acids,Saturated fatty acids,,,Myristic acid,14:0,,SFA,SFA,HMDB00806,C06424,C14H28O2,Myristic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA03,Platform 1,FFA03,Non-esterified fatty acids,Saturated fatty acids,,,Palmitic acid,16:0,,SFA,SFA,HMDB00220,C00249,C16H32O2,Palmitic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA04,Platform 1,FFA04,Non-esterified fatty acids,Monounsaturated fatty acids,,,Palmitoleic acid,16:1n-7,,MUFA,MUFA,HMDB03229,C08362,C16H30O2,Palmitoleic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA05,Platform 1,FFA05,Non-esterified fatty acids,Monounsaturated fatty acids,,,Hypogeic acid,16:1n-9,,MUFA,MUFA,HMDB02186,,C16H30O2,Hypogeic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA06,Platform 1,FFA06,Non-esterified fatty acids,Monounsaturated fatty acids,,,,,16:1n-x,MUFA,MUFA,,,,,,,
+FFA07,Platform 1,FFA07,Non-esterified fatty acids,Saturated fatty acids,,,Stearic acid,18:0,,SFA,SFA,HMDB00827,C01530,C18H36O2,Stearic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA08,Platform 1,FFA08,Non-esterified fatty acids,Monounsaturated fatty acids,,,Oleic acid,18:1n-9,,MUFA,MUFA,HMDB00207,C00712,C18H34O2,Oleic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA09,Platform 1,FFA09,Non-esterified fatty acids,Monounsaturated fatty acids,,,,,18:1n-x,MUFA,MUFA,,,,,,,
+FFA10,Platform 1,FFA10,Non-esterified fatty acids,Monounsaturated fatty acids,,,,,18:1n-x,MUFA,MUFA,,,,,,,
+FFA11,Platform 1,FFA11,Non-esterified fatty acids,Polyunsaturated fatty acids,Essential,,Linoleic acid (LA),18:2n-6,,PUFA,PUFA,HMDB00673,C01595,C18H32O2,Linoleic acid,Cell signaling,Lineolic Acids and Derivatives,Lipids
+FFA12,Platform 1,FFA12,Non-esterified fatty acids,Polyunsaturated fatty acids,,,,,18:2n-x,PUFA,PUFA,,,,,,,
+FFA13,Platform 1,FFA13,Non-esterified fatty acids,Polyunsaturated fatty acids,,,Linoelaidic acid,18:2n-6 trans,,PUFA,PUFA,HMDB06270,,C18H32O2,Linoelaidic acid,Cell signaling,Lineolic Acids and Derivatives,Lipids
+FFA14,Platform 1,FFA14,Non-esterified fatty acids,Polyunsaturated fatty acids,Essential,,Alpha-Linolenic acid (ALA),18:3n-3,,PUFA,PUFA,HMDB01388,C06427,C18H30O2,Alpha-Linolenic acid,Cell signaling,Lineolic Acids and Derivatives,Lipids
+FFA15,Platform 1,FFA15,Non-esterified fatty acids,Polyunsaturated fatty acids,Conditionally essential,,Gamma-Linolenic acid (GLA),18:3n-6,,PUFA,PUFA,HMDB03073,C06426,C18H30O2,Gamma-Linolenic acid,Cell signaling,Lineolic Acids and Derivatives,Lipids
+FFA17,Platform 1,FFA17,Non-esterified fatty acids,Monounsaturated fatty acids,,,Gadoleic acid,20:1n-6,,MUFA,MUFA,,,,,,,
+FFA18,Platform 1,FFA18,Non-esterified fatty acids,Monounsaturated fatty acids,,,Eicosenoic acid,20:1n-9,,MUFA,MUFA,HMDB02231,C16526,C20H38O2,Eicosenoic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA19,Platform 1,FFA19,Non-esterified fatty acids,Polyunsaturated fatty acids,,,Eicosadienoic acid,20:2n-6,,PUFA,PUFA,HMDB05060,C16525,C20H36O2,Eicosadienoic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA20,Platform 1,FFA20,Non-esterified fatty acids,Polyunsaturated fatty acids,,,Eicosatrienoid acid (ETE),20:3n-3,,PUFA,PUFA,,,,,,,
+FFA21,Platform 1,FFA21,Non-esterified fatty acids,Polyunsaturated fatty acids,,,,,20:3n-x,PUFA,PUFA,,,,,,,
+FFA22,Platform 1,FFA22,Non-esterified fatty acids,Polyunsaturated fatty acids,,,Mead acid,20:3n-9,,PUFA,PUFA,HMDB10378,,C20H34O2,"5,8,11-Eicosatrienoic acid",Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA23,Platform 1,FFA23,Non-esterified fatty acids,Polyunsaturated fatty acids,,,Arachidonic acid (AA),20:4n-6,,PUFA,PUFA,HMDB01043,C00219,C20H32O2,Arachidonic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA24,Platform 1,FFA24,Non-esterified fatty acids,Polyunsaturated fatty acids,,,,,20:4n-x,PUFA,PUFA,,,,,,,
+FFA25,Platform 1,FFA25,Non-esterified fatty acids,Polyunsaturated fatty acids,,,Eicosatetraenoic acid (ETA),20:4n-3,,PUFA,PUFA,HMDB02177,,C20H32O2,"Cis-8,11,14,17-Eicosatetraenoic acid",Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA26,Platform 1,FFA26,Non-esterified fatty acids,Polyunsaturated fatty acids,,,"Eicosapentaenoic acid (EPA, Timnodonic acid)",20:5n-3,,PUFA,PUFA,HMDB01999,C06428,C20H30O2,Eicosapentaenoic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA27,Platform 1,FFA27,Non-esterified fatty acids,Polyunsaturated fatty acids,,,Adrenic acid,22:4n-6,,PUFA,PUFA,HMDB02226,C16527,C22H36O2,Adrenic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA28,Platform 1,FFA28,Non-esterified fatty acids,Polyunsaturated fatty acids,,,"Docosapentaenoic acid (DPA, Clupanodonic acid)",22:5n-3,,PUFA,PUFA,HMDB06528,C16513,C22H34O2,Docosapentaenoic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA29,Platform 1,FFA29,Non-esterified fatty acids,Polyunsaturated fatty acids,,,Docosapentaenoic acid (Osbond acid),22:5n-6,,PUFA,PUFA,,,,,,,
+FFA30,Platform 1,FFA30,Non-esterified fatty acids,Polyunsaturated fatty acids,Peroxisomal beta-oxidation,,"Docosahexaenoic acid (DHA, Cervonic acid). DHA induces apoptosis in human hepatocellular carcinoma cells. Int J Clin Exp Pathol. 2013; 6(2): 281–289.",22:6n-3,,PUFA,PUFA,HMDB02183,C06429,C22H32O2,Docosahexaenoic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA31,Platform 1,FFA31,Non-esterified fatty acids,Saturated fatty acids,,,Lauric acid,12:0,,SFA,SFA,HMDB00638,C02679,C12H24O2,Dodecanoic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA32,Platform 1,FFA32,Non-esterified fatty acids,Polyunsaturated fatty acids,,,Palmitolinoleic acid,"16:2n-4,7",,PUFA,PUFA,,,,,,,
+FFA33,Platform 1,FFA33,Non-esterified fatty acids,Saturated fatty acids,,,Pentadecylic acid,15:0,,SFA,SFA,HMDB00826,C16537,C15H30O2,Pentadecanoic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA34,Platform 1,FFA34,Non-esterified fatty acids,Saturated fatty acids,,,Margaric acid,17:0,,SFA,SFA,HMDB02259,,C17H34O2,Heptadecanoic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA35,Platform 1,FFA35,Non-esterified fatty acids,Monounsaturated fatty acids,,,,,19:1n-x,MUFA,MUFA,,,,,,,
+FFA37,Platform 1,FFA37,Non-esterified fatty acids,Saturated fatty acids,,,Arachidic acid,20:0,,SFA,SFA,HMDB02212,C06425,C20H40O2,Arachidic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA38,Platform 1,FFA38,Non-esterified fatty acids,Monounsaturated fatty acids,,,Nervonic acid,24:1n-9,,MUFA,MUFA,HMDB02368,C08323,C24H46O2,Nervonic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA39,Platform 1,FFA39,Non-esterified fatty acids,Monounsaturated fatty acids,,,Myristoleic acid,14:1n-5,,MUFA,MUFA,HMDB02000,C08322,C14H26O2,Myristoleic acid,Cell signaling,Fatty Acids and Conjugates,Lipids
+FFA40,Platform 1,FFA40,Non-esterified fatty acids,Monounsaturated fatty acids,,,,,14:1n-x,MUFA,MUFA,,,,,,,
+FFA41,Platform 1,FFA41,Non-esterified fatty acids,Polyunsaturated fatty acids,,,Stearidonic acid (SDA),18:4n-3,,PUFA,PUFA,HMDB06547,C16300,C18H28O2,Stearidonic acid,Cell signaling,Lineolic Acids and Derivatives,Lipids
+FFA42,Platform 1,FFA42,Non-esterified fatty acids,Polyunsaturated fatty acids,,,,,14:3n-x,PUFA,PUFA,,,,,,,
+FFA43,Platform 1,FFA43,Non-esterified fatty acids,Polyunsaturated fatty acids,,,,,14:2n-x,PUFA,PUFA,,,,,,,
+FFA44,Platform 1,FFA44,Non-esterified fatty acids,Monounsaturated fatty acids,,,,,17:1n-x,MUFA,MUFA,,,,,,,
+FFA45,Platform 1,FFA45,Non-esterified fatty acids,Polyunsaturated fatty acids,,,,,22:3n-x,PUFA,PUFA,,,,,,,
+FFA46,Platform 1,FFA46,Non-esterified fatty acids,Polyunsaturated fatty acids,,,,,22:3n-x,PUFA,PUFA,,,,,,,
+FFA47,Platform 1,FFA47,Non-esterified fatty acids,Polyunsaturated fatty acids,,,,,16:3n-x,PUFA,PUFA,,,,,,,
+FFA48,Platform 1,FFA48,Non-esterified fatty acids,Polyunsaturated fatty acids,,,,,16:3n-x,PUFA,PUFA,,,,,,,
+FFA49,Platform 1,FFA49,Non-esterified fatty acids,Polyunsaturated fatty acids,,,,,20:2n-x,PUFA,PUFA,,,,,,,
+FFAox03_FFAox04,Platform 1,FFAox03_FFAox04,Oxidized fatty acids,"Hydroxy-eicosatetraenoic acids (HETE), Epoxy eicosatetraaenoic acids (EET)",,,,15-HETE,,FFAox,FFAox,HMDB03876,C04742,C20H32O3,15(S)-HETE,Cell signaling,Eicosanoids,Lipids
+FFAox06,Platform 1,FFAox06,Oxidized fatty acids,"Hydroxy-eicosatetraenoic acids (HETE), Epoxy eicosatetraaenoic acids (EET)",,,,12-HETE,,FFAox,FFAox,HMDB06111,,C20H32O3,12-HETE,Cell signaling,Eicosanoids,Lipids
+FFAox08,Platform 1,FFAox08,Oxidized fatty acids,"Hydroxy-eicosatetraenoic acids (HETE), Epoxy eicosatetraaenoic acids (EET)",,,,5-HETE,,FFAox,FFAox,HMDB11134,C04805,C20H32O3,5-HETE,Cell signaling,Eicosanoids,Lipids
+FFAox09,Platform 1,FFAox09,Oxidized fatty acids,"Hydroxy-eicosatetraenoic acids (HETE), Epoxy eicosatetraaenoic acids (EET)",,,,x-HETE/EET,,FFAox,FFAox,,,,,,,
+FFAox10,Platform 1,FFAox10,Oxidized fatty acids,Hydroxy-octadecadenoic acids,,,,x-HODE,,FFAox,FFAox,,,,,,,
+FFAox12,Platform 1,FFAox12,Oxidized fatty acids,Hydroxy-octadecadenoic acids,,,,13-HODE,,FFAox,FFAox,HMDB04667,C14762,C18H32O3,13S-hydroxyoctadecadienoic acid,Cell signaling,Lineolic Acids and Derivatives,Lipids
+FFAox14,Platform 1,FFAox14,Oxidized fatty acids,Hydroxy-octadecadenoic acids,,,,x-HODE,,FFAox,FFAox,,,,,,,
+FFAox15,Platform 1,FFAox15,Oxidized fatty acids,Hydroxy-octadecadenoic acids,,,,x-HODE,,FFAox,FFAox,,,,,,,
+FFAox16,Platform 1,FFAox16,Oxidized fatty acids,Hydroxy-octadecadenoic acids,,,,x-HODE,,FFAox,FFAox,,,,,,,
+FFAox21,Platform 1,FFAox21,Oxidized fatty acids,Oxo-octadecadenoic acids,,,,x-OxoODE,,FFAox,FFAox,,,,,,,
+FFAox26,Platform 1,FFAox26,Oxidized fatty acids,Oxo-octadecadenoic acids,,,,x-OxoODE,,FFAox,FFAox,,,,,,,
+FSB01,Platform 1,FSB01,Sphingolipids,Free Sphingoid base,,,,Sphingosine-1-phosphate,,FSB,FSB,HMDB00277,C06124,C18H38NO5P,Sphingosine 1-phosphate,Cell signaling,Sphingolipids,Lipids
+FSB02,Platform 1,FSB02,Sphingolipids,Free Sphingoid base,,,,Sphinganine 1-phosphate,,FSB,FSB,HMDB01383,C01120,C18H40NO5P,Sphinganine 1-phosphate,Cell signaling,Sphingolipids,Lipids
+MAPC02,Platform 1,MAPC02,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(14:0/0:0),,LPC_1MAPC,LPC,HMDB10379,C04230,C22H46NO7P,LysoPC(14:0),Cell signaling,Glycerophospholipids,Lipids
+MAPC03,Platform 1,MAPC03,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/14:0),,LPC_2MAPC,LPC,HMDB10379,C04230,C22H46NO7P,LysoPC(14:0),Cell signaling,Glycerophospholipids,Lipids
+MAPC04,Platform 1,MAPC04,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(15:0/0:0),,LPC_1MAPC,LPC,HMDB10381,C04230,C23H48NO7P,LysoPC(15:0),Cell signaling,Glycerophospholipids,Lipids
+MAPC05,Platform 1,MAPC05,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/15:0),,LPC_2MAPC,LPC,HMDB10381,C04230,C23H48NO7P,LysoPC(15:0),Cell signaling,Glycerophospholipids,Lipids
+MAPC06,Platform 1,MAPC06,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(16:0/0:0),,LPC_1MAPC,LPC,HMDB10382,C04230,C24H50NO7P,LysoPC(16:0),Cell signaling,Glycerophospholipids,Lipids
+MAPC07,Platform 1,MAPC07,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/16:0),,LPC_2MAPC,LPC,HMDB10382,C04230,C24H50NO7P,LysoPC(16:0),Cell signaling,Glycerophospholipids,Lipids
+MAPC08,Platform 1,MAPC08,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/16:1),,LPC_2MAPC,LPC,,,,,,,
+MAPC09,Platform 1,MAPC09,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(16:1/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC10,Platform 1,MAPC10,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(16:1/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC12,Platform 1,MAPC12,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(16:1/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC13,Platform 1,MAPC13,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/18:0),,LPC_2MAPC,LPC,HMDB10384,C04230,C26H54NO7P,LysoPC(18:0),Cell signaling,Glycerophospholipids,Lipids
+MAPC14,Platform 1,MAPC14,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(18:0/0:0),,LPC_1MAPC,LPC,HMDB10384,C04230,C26H54NO7P,LysoPC(18:0),Cell signaling,Glycerophospholipids,Lipids
+MAPC15,Platform 1,MAPC15,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/18:1),,LPC_2MAPC,LPC,,,,,,,
+MAPC16,Platform 1,MAPC16,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(18:1/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC17,Platform 1,MAPC17,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(18:1/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC18,Platform 1,MAPC18,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/18:2),,LPC_2MAPC,LPC,,,,,,,
+MAPC19,Platform 1,MAPC19,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(18:2/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC20,Platform 1,MAPC20,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(18:2/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC21,Platform 1,MAPC21,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/18:3),,LPC_2MAPC,LPC,,,,,,,
+MAPC22,Platform 1,MAPC22,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(18:3/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC23,Platform 1,MAPC23,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(18:3/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC25,Platform 1,MAPC25,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/20:0),,LPC_2MAPC,LPC,HMDB10390,C04230,C28H58NO7P,LysoPC(20:0),Cell signaling,Glycerophospholipids,Lipids
+MAPC26,Platform 1,MAPC26,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(20:0/0:0),,LPC_1MAPC,LPC,HMDB10390,C04230,C28H58NO7P,LysoPC(20:0),Cell signaling,Glycerophospholipids,Lipids
+MAPC27,Platform 1,MAPC27,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/20:1),,LPC_2MAPC,LPC,,,,,,,
+MAPC28,Platform 1,MAPC28,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(20:1/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC29,Platform 1,MAPC29,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(20:1/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC30,Platform 1,MAPC30,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/20:2),,LPC_2MAPC,LPC,,,,,,,
+MAPC31,Platform 1,MAPC31,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(20:2/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC32,Platform 1,MAPC32,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(20:2/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC33,Platform 1,MAPC33,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/20:3),,LPC_2MAPC,LPC,,,,,,,
+MAPC35,Platform 1,MAPC35,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(20:3/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC36,Platform 1,MAPC36,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(20:3/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC37,Platform 1,MAPC37,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/20:4),,LPC_2MAPC,LPC,HMDB10395,C04230,C28H50NO7P,"LysoPC(20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+MAPC38,Platform 1,MAPC38,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(20:4/0:0),,LPC_1MAPC,LPC,HMDB10395,C04230,C28H50NO7P,"LysoPC(20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+MAPC39,Platform 1,MAPC39,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/20:5),,LPC_2MAPC,LPC,HMDB10397,C04230,C28H48NO7P,"LysoPC(20:5(5Z,8Z,11Z,14Z,17Z))",Cell signaling,Glycerophospholipids,Lipids
+MAPC40,Platform 1,MAPC40,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(20:5/0:0),,LPC_1MAPC,LPC,HMDB10397,C04230,C28H48NO7P,"LysoPC(20:5(5Z,8Z,11Z,14Z,17Z))",Cell signaling,Glycerophospholipids,Lipids
+MAPC41,Platform 1,MAPC41,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/22:4),,LPC_2MAPC,LPC,,,,,,,
+MAPC42,Platform 1,MAPC42,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(22:4/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC43,Platform 1,MAPC43,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(22:4/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC44,Platform 1,MAPC44,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/22:5),,LPC_2MAPC,LPC,,,,,,,
+MAPC45,Platform 1,MAPC45,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(22:5/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC46,Platform 1,MAPC46,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/22:5),,LPC_2MAPC,LPC,,,,,,,
+MAPC47,Platform 1,MAPC47,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(22:5/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC48,Platform 1,MAPC48,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/22:6),,LPC_2MAPC,LPC,HMDB10404,C04230,C30H50NO7P,"LysoPC(22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Cell signaling,Glycerophospholipids,Lipids
+MAPC49,Platform 1,MAPC49,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(22:6/0:0),,LPC_1MAPC,LPC,HMDB10404,C04230,C30H50NO7P,"LysoPC(22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Cell signaling,Glycerophospholipids,Lipids
+MAPC50,Platform 1,MAPC50,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(17:0/0:0),,LPC_1MAPC,LPC,HMDB12108,C04230,C25H52NO7P,LysoPC(17:0),Cell signaling,Glycerophospholipids,Lipids
+MAPC51,Platform 1,MAPC51,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/17:0),,LPC_2MAPC,LPC,HMDB12108,C04230,C25H52NO7P,LysoPC(17:0),Cell signaling,Glycerophospholipids,Lipids
+MAPC52,Platform 1,MAPC52,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(19:0/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC53,Platform 1,MAPC53,Glycerophospholipids,Monoacylglycerophosphocholine,,,,LPC(22:0),,LPC_2MAPC,LPC,,,,,,,
+MAPC54,Platform 1,MAPC54,Glycerophospholipids,1-Monoacylglycerophosphocholine,,,,PC(17:1/0:0),,LPC_1MAPC,LPC,,,,,,,
+MAPC55,Platform 1,MAPC55,Glycerophospholipids,2-Monoacylglycerophosphocholine,,,,PC(0:0/17:1),,LPC_2MAPC,LPC,,,,,,,
+MAPC56,Platform 1,MAPC56,Glycerophospholipids,Monoacylglycerophosphocholine,,,,LPC(19:1),,LPC_2MAPC,LPC,,,,,,,
+MAPC57,Platform 1,MAPC57,Glycerophospholipids,Monoacylglycerophosphocholine,,,,LPC(22:1),,LPC_2MAPC,LPC,,,,,,,
+MAPE06,Platform 1,MAPE06,Glycerophospholipids,1-Monoacylglycerophosphoethanolamine,,,,PE(14:0/0:0),,LPE_1MAPE,LPE,HMDB11500,,C19H40NO7P,LysoPE(14:0/0:0),Cell signaling,Glycerophospholipids,Lipids
+MAPE07,Platform 1,MAPE07,Glycerophospholipids,2-Monoacylglycerophosphoethanolamine,,,,PE(0:0/16:0),,LPE_2MAPE,LPE,HMDB11473,,C21H44NO7P,LysoPE(0:0/16:0),Cell signaling,Glycerophospholipids,Lipids
+MAPE08,Platform 1,MAPE08,Glycerophospholipids,1-Monoacylglycerophosphoethanolamine,,,,PE(16:0/0:0),,LPE_1MAPE,LPE,HMDB11503,,C21H44NO7P,LysoPE(16:0/0:0),Cell signaling,Glycerophospholipids,Lipids
+MAPE09,Platform 1,MAPE09,Glycerophospholipids,2-Monoacylglycerophosphoethanolamine,,,,,PE(0:0/16:1),LPE_2MAPE,LPE,HMDB11474,,C21H42NO7P,LysoPE(0:0/16:1(9Z)),Cell signaling,Glycerophospholipids,Lipids
+MAPE11,Platform 1,MAPE11,Glycerophospholipids,1-Monoacylglycerophosphoethanolamine,,,,PE(16:1/0:0) ,,LPE_1MAPE,LPE,HMDB11504,,C21H42NO7P,LysoPE(16:1(9Z)/0:0),Cell signaling,Glycerophospholipids,Lipids
+MAPE13,Platform 1,MAPE13,Glycerophospholipids,2-Monoacylglycerophosphoethanolamine,,,,PE(0:0/18:0),,LPE_2MAPE,LPE,HMDB11129,,C23H48NO7P,LysoPE(0:0/18:0),Cell signaling,Glycerophospholipids,Lipids
+MAPE14,Platform 1,MAPE14,Glycerophospholipids,1-Monoacylglycerophosphoethanolamine,,,,PE(18:0/0:0),,LPE_1MAPE,LPE,HMDB11130,,C23H48NO7P,LysoPE(18:0/0:0),Cell signaling,Glycerophospholipids,Lipids
+MAPE15,Platform 1,MAPE15,Glycerophospholipids,2-Monoacylglycerophosphoethanolamine,,,,PE(0:0/18:1) ,,LPE_2MAPE,LPE,HMDB11476,,C23H46NO7P,LysoPE(0:0/18:1(9Z)),Cell signaling,Glycerophospholipids,Lipids
+MAPE16,Platform 1,MAPE16,Glycerophospholipids,1-Monoacylglycerophosphoethanolamine,,,,PE(18:1/0:0) ,,LPE_1MAPE,LPE,,,,,,,
+MAPE17,Platform 1,MAPE17,Glycerophospholipids,1-Monoacylglycerophosphoethanolamine,,,,PE(18:1/0:0) ,,LPE_1MAPE,LPE,,,,,,,
+MAPE18,Platform 1,MAPE18,Glycerophospholipids,2-Monoacylglycerophosphoethanolamine,,,,PE(0:0/18:2),,LPE_2MAPE,LPE,HMDB11477,,C23H44NO7P,"LysoPE(0:0/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+MAPE19,Platform 1,MAPE19,Glycerophospholipids,1-Monoacylglycerophosphoethanolamine,,,,PE(18:2/0:0) ,,LPE_1MAPE,LPE,,,,,,,
+MAPE20,Platform 1,MAPE20,Glycerophospholipids,1-Monoacylglycerophosphoethanolamine,,,,PE(18:2/0:0) ,,LPE_1MAPE,LPE,,,,,,,
+MAPE21,Platform 1,MAPE21,Glycerophospholipids,Monoacylglycerophosphoethanolamine,,,,,PE(18:3/0:0) ,LPE_MAPE,LPE,,,,,,,
+MAPE22,Platform 1,MAPE22,Glycerophospholipids,Monoacylglycerophosphoethanolamine,,,,,PE(18:3/0:0) ,LPE_MAPE,LPE,,,,,,,
+MAPE28,Platform 1,MAPE28,Glycerophospholipids,Monoacylglycerophosphoethanolamine,,,,,PE(0:0/20:3),LPE_MAPE,LPE,HMDB11485,,C25H46NO7P,"LysoPE(0:0/20:3(5Z,8Z,11Z))",Cell signaling,Glycerophospholipids,Lipids
+MAPE29,Platform 1,MAPE29,Glycerophospholipids,1-Monoacylglycerophosphoethanolamine,,,,PE(20:3/0:0),,LPE_1MAPE,LPE,HMDB11515,,C25H46NO7P,"LysoPE(20:3(5Z,8Z,11Z)/0:0)",Cell signaling,Glycerophospholipids,Lipids
+MAPE30,Platform 1,MAPE30,Glycerophospholipids,2-Monoacylglycerophosphoethanolamine,,,,PE(0:0/20:4),,LPE_2MAPE,LPE,HMDB11487,,C25H44NO7P,"LysoPE(0:0/20:4(5Z,8Z,11Z,14Z))",Cell signaling,Glycerophospholipids,Lipids
+MAPE31,Platform 1,MAPE31,Glycerophospholipids,1-Monoacylglycerophosphoethanolamine,,,,PE(20:4/0:0),,LPE_1MAPE,LPE,HMDB11517,,C25H44NO7P,"LysoPE(20:4(5Z,8Z,11Z,14Z)/0:0)",Cell signaling,Glycerophospholipids,Lipids
+MAPE32,Platform 1,MAPE32,Glycerophospholipids,Monoacylglycerophosphoethanolamine,,,,,LPE(20:5),LPE_MAPE,LPE,,,,,,,
+MAPE33,Platform 1,MAPE33,Glycerophospholipids,Monoacylglycerophosphoethanolamine,,,,,PE(20:5/0:0),LPE_MAPE,LPE,HMDB11519,,C25H42NO7P,"LysoPE(20:5(5Z,8Z,11Z,14Z,17Z)/0:0)",Cell signaling,Glycerophospholipids,Lipids
+MAPE34,Platform 1,MAPE34,Glycerophospholipids,2-Monoacylglycerophosphoethanolamine,,,,PE(0:0/22:4),,LPE_2MAPE,LPE,HMDB11493,,C27H48NO7P,"LysoPE(0:0/22:4(7Z,10Z,13Z,16Z))",Cell signaling,Glycerophospholipids,Lipids
+MAPE35,Platform 1,MAPE35,Glycerophospholipids,1-Monoacylglycerophosphoethanolamine,,,,PE(22:4/0:0),,LPE_1MAPE,LPE,HMDB11523,,C27H48NO7P,"LysoPE(22:4(7Z,10Z,13Z,16Z)/0:0)",Cell signaling,Glycerophospholipids,Lipids
+MAPE36,Platform 1,MAPE36,Glycerophospholipids,Monoacylglycerophosphoethanolamine,,,,,PE(22:5/0:0),LPE_MAPE,LPE,,,,,,,
+MAPE37,Platform 1,MAPE37,Glycerophospholipids,Monoacylglycerophosphoethanolamine,,,,,PE(22:5/0:0),LPE_MAPE,LPE,,,,,,,
+MAPE38,Platform 1,MAPE38,Glycerophospholipids,Monoacylglycerophosphoethanolamine,,,,,PE(22:5/0:0),LPE_MAPE,LPE,,,,,,,
+MAPE39,Platform 1,MAPE39,Glycerophospholipids,Monoacylglycerophosphoethanolamine,,,,,PE(22:5/0:0),LPE_MAPE,LPE,,,,,,,
+MAPE40,Platform 1,MAPE40,Glycerophospholipids,2-Monoacylglycerophosphoethanolamine,,,,PE(0:0/22:6),,LPE_2MAPE,LPE,HMDB11496,,C27H44NO7P,"LysoPE(0:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))",Cell signaling,Glycerophospholipids,Lipids
+MAPE41,Platform 1,MAPE41,Glycerophospholipids,1-Monoacylglycerophosphoethanolamine,,,,PE(22:6/0:0),,LPE_1MAPE,LPE,HMDB11526,,C27H44NO7P,"LysoPE(22:6(4Z,7Z,10Z,13Z,16Z,19Z)/0:0)",Cell signaling,Glycerophospholipids,Lipids
+MAPG01,Platform 1,MAPG01,Glycerophospholipids,Monoacylglycerophosphoglycerol,,,,LPG(16:0),,LPG_MAPG,LPG,,,,,,,
+MAPG02,Platform 1,MAPG02,Glycerophospholipids,Monoacylglycerophosphoglycerol,,,,LPG(16:0),,LPG_MAPG,LPG,,,,,,,
+MAPG04,Platform 1,MAPG04,Glycerophospholipids,Monoacylglycerophosphoglycerol,,,,LPG(18:0),,LPG_MAPG,LPG,,,,,,,
+MAPG05,Platform 1,MAPG05,Glycerophospholipids,Monoacylglycerophosphoglycerol,,,,LPG(18:1),,LPG_MAPG,LPG,,,,,,,
+MAPG06,Platform 1,MAPG06,Glycerophospholipids,Monoacylglycerophosphoglycerol,,,,LPG(18:1),,LPG_MAPG,LPG,,,,,,,
+MAPG07,Platform 1,MAPG07,Glycerophospholipids,Monoacylglycerophosphoglycerol,,,,LPG(18:2),,LPG_MAPG,LPG,,,,,,,
+MAPG10,Platform 1,MAPG10,Glycerophospholipids,Monoacylglycerophosphoglycerol,,,,LPG(20:4),,LPG_MAPG,LPG,,,,,,,
+MAPI01,Platform 1,MAPI01,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(16:0),,LPI_MAPI,LPI,,,,,,,
+MAPI02,Platform 1,MAPI02,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(16:0),,LPI_MAPI,LPI,,,,,,,
+MAPI03,Platform 1,MAPI03,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(18:0),,LPI_MAPI,LPI,,,,,,,
+MAPI04,Platform 1,MAPI04,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(18:0),,LPI_MAPI,LPI,,,,,,,
+MAPI05,Platform 1,MAPI05,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(18:1),,LPI_MAPI,LPI,,,,,,,
+MAPI06,Platform 1,MAPI06,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(18:1),,LPI_MAPI,LPI,,,,,,,
+MAPI07,Platform 1,MAPI07,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(18:1),,LPI_MAPI,LPI,,,,,,,
+MAPI08,Platform 1,MAPI08,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(18:2),,LPI_MAPI,LPI,,,,,,,
+MAPI09,Platform 1,MAPI09,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(18:2),,LPI_MAPI,LPI,,,,,,,
+MAPI10,Platform 1,MAPI10,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(20:3),,LPI_MAPI,LPI,,,,,,,
+MAPI11,Platform 1,MAPI11,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(20:4),,LPI_MAPI,LPI,,,,,,,
+MAPI12,Platform 1,MAPI12,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(20:4),,LPI_MAPI,LPI,,,,,,,
+MAPI13,Platform 1,MAPI13,Glycerophospholipids,Monoacylglycerophosphoinositol,,,,LPI(22:6),,LPI_MAPI,LPI,,,,,,,
+MEMAPC01,Platform 2,MEMAPC01,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(O-16:0/14:0),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC02,Platform 2,MEMAPC02,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(16:1e/14:0),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC03,Platform 2,MEMAPC03,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(O-16:0/16:0),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC04,Platform 2,MEMAPC04,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(16:1e/16:0),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC05,Platform 2,MEMAPC05,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(34:0e),PC(O-16:0/18:0) + PC(O-18:0/16:0),PC_1ME2MAPC,PC,,,,,,,
+MEMAPC06,Platform 2,MEMAPC06,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(34:1e),PC(O-16:0/18:1) + PC(18:1e/16:0),PC_1ME2MAPC,PC,,,,,,,
+MEMAPC07,Platform 2,MEMAPC07,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(O-16:0/18:2),,PC_1ME2MAPC,PC,HMDB11151,,C42H82NO7P,"PC(O-16:0/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+MEMAPC08,Platform 2,MEMAPC08,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(16:1e/18:1),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC09,Platform 2,MEMAPC09,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(16:1e/18:2),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC11,Platform 2,MEMAPC11,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(18:1e/18:1),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC12,Platform 2,MEMAPC12,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(O-18:0/18:2),,PC_1ME2MAPC,PC,HMDB13418,,C44H86NO7P,"PC(o-18:0/18:2(9Z,12Z))",Cell signaling,Glycerophospholipids,Lipids
+MEMAPC13,Platform 2,MEMAPC13,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(18:1e/18:2),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC14,Platform 2,MEMAPC14,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(O-16:0/20:3),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC15_MEMAPC16,Platform 2,MEMAPC15_MEMAPC16,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(36:3e),PC(18:1e/18:2) + PC18:2e/18:1),PC_1ME2MAPC,PC,,,,,,,
+MEMAPC17,Platform 2,MEMAPC17,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(O-16:0/20:4),,PC_1ME2MAPC,PC,HMDB13407,,C44H82NO7P,"PC(o-16:0/20:4(8Z,11Z,14Z,17Z))",Cell signaling,Glycerophospholipids,Lipids
+MEMAPC18,Platform 2,MEMAPC18,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(16:1e/20:3),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC19,Platform 2,MEMAPC19,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(16:1e/20:4),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC20,Platform 2,MEMAPC20,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(38:4e),PC(22:4e/16:0) + PC(18:1e/20:3),PC_1ME2MAPC,PC,,,,,,,
+MEMAPC21,Platform 2,MEMAPC21,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(O-16:0/22:4),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC22,Platform 2,MEMAPC22,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(O-18:0/20:4),,PC_1ME2MAPC,PC,HMDB13420,,C46H86NO7P,"PC(o-18:0/20:4(8Z,11Z,14Z,17Z))",Cell signaling,Glycerophospholipids,Lipids
+MEMAPC23,Platform 2,MEMAPC23,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(18:1e/20:3),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC24_MEMAPC25,Platform 2,MEMAPC24_MEMAPC25,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(18:1e/20:4),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC26,Platform 2,MEMAPC26,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(18:1e/20:4),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC27,Platform 2,MEMAPC27,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(18:1e/20:4),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC28,Platform 2,MEMAPC28,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(18:2e/20:4),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC29,Platform 2,MEMAPC29,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(16:1e/22:6),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC30,Platform 2,MEMAPC30,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(O-18:0/22:4),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC31,Platform 2,MEMAPC31,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(O-20:0/20:4),,PC_1ME2MAPC,PC,HMDB13442,,C48H90NO7P,"PC(o-20:0/20:4(8Z,11Z,14Z,17Z))",Cell signaling,Glycerophospholipids,Lipids
+MEMAPC32,Platform 2,MEMAPC32,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(18:1e/22:4),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC33_MEMAPC34,Platform 2,MEMAPC33_MEMAPC34,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(40:5e),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC35,Platform 2,MEMAPC35,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(22:1e/20:4),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPC36,Platform 2,MEMAPC36,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(42:6e),PC(22:2e/20:4),PC_1ME2MAPC,PC,,,,,,,
+MEMAPC37,Platform 2,MEMAPC37,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,,PC(O-22:0/20:4),PC_1ME2MAPC,PC,HMDB13448,,C50H94NO7P,"PC(o-22:0/20:4(8Z,11Z,14Z,17Z))",Cell signaling,Glycerophospholipids,Lipids
+MEMAPC38,Platform 2,MEMAPC38,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,,PC(24:1e/20:4),PC_1ME2MAPC,PC,,,,,,,
+MEMAPE01,Platform 2,MEMAPE01,Glycerophospholipids,"1-ether, 2-acylglycerophosphoethanolamine",,,,PE(O-16:0/18:1),,PE_1ME2MAPE,PE,,,,,,,
+MEMAPE02,Platform 2,MEMAPE02,Glycerophospholipids,"1-ether, 2-acylglycerophosphoethanolamine",,,,PE(16:1e/18:2),,PE_1ME2MAPE,PE,,,,,,,
+MEMAPE05,Platform 2,MEMAPE05,Glycerophospholipids,"1-ether, 2-acylglycerophosphoethanolamine",,,,PE(18:1e/18:1),,PE_1ME2MAPE,PE,,,,,,,
+MEMAPE06,Platform 2,MEMAPE06,Glycerophospholipids,"1-ether, 2-acylglycerophosphoethanolamine",,,,PE(16:1e/20:4),,PE_1ME2MAPE,PE,,,,,,,
+MEMAPE07,Platform 2,MEMAPE07,Glycerophospholipids,"1-ether, 2-acylglycerophosphoethanolamine",,,,PE(20:1e/18:2),,PE_1ME2MAPE,PE,,,,,,,
+MEMAPE08,Platform 2,MEMAPE08,Glycerophospholipids,"1-ether, 2-acylglycerophosphoethanolamine",,,,PE(18:1e/20:4),,PE_1ME2MAPE,PE,,,,,,,
+MEMAPE09,Platform 2,MEMAPE09,Glycerophospholipids,"1-ether, 2-acylglycerophosphoethanolamine",,,,PE(18:2e/20:4),,PE_1ME2MAPE,PE,,,,,,,
+MEMAPE11,Platform 2,MEMAPE11,Glycerophospholipids,"1-ether, 2-acylglycerophosphoethanolamine",,,,PE(16:1e/22:6),,PE_1ME2MAPE,PE,,,,,,,
+MEMAPE13,Platform 2,MEMAPE13,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(17:1e/20:4),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPE14,Platform 2,MEMAPE14,Glycerophospholipids,"1-ether, 2-acylglycerophosphocholine",,,,PC(17:1e/20:4),,PC_1ME2MAPC,PC,,,,,,,
+MEMAPE15,Platform 2,MEMAPE15,Glycerophospholipids,"1-ether, 2-acylglycerophosphoethanolamine",,,,PE(20:1e/20:4),,PE_1ME2MAPE,PE,,,,,,,
+MEMAPE16,Platform 2,MEMAPE16,Glycerophospholipids,"1-ether, 2-acylglycerophosphoethanolamine",,,,PE(40:6),PE(18:1e/22:5) + PE(20:2e/20:4),PE_1ME2MAPE,PE,,,,,,,
+MEMAPE17,Platform 2,MEMAPE17,Glycerophospholipids,"1-ether, 2-acylglycerophosphoethanolamine",,,,PE(18:1e/18:2),,PE_1ME2MAPE,PE,,,,,,,
+MEPC02,Platform 2,MEPC02,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(O-16:0/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC03,Platform 2,MEPC03,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(16:1e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC04,Platform 2,MEPC04,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(O-18:0/0:0),,LPC_1MEPC,LPC,HMDB11149,C04317,C26H56NO6P,LysoPC(O-18:0),Cell signaling,Glycerophospholipids,Lipids
+MEPC05,Platform 2,MEPC05,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(18:1e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC06,Platform 2,MEPC06,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(18:1e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC07,Platform 2,MEPC07,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(18:1e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC08,Platform 2,MEPC08,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(18:2e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC09,Platform 2,MEPC09,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(18:2e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC10,Platform 2,MEPC10,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(O-20:0/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC11,Platform 2,MEPC11,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(20:1e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC12,Platform 2,MEPC12,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(20:1e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC13,Platform 2,MEPC13,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(20:2e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC14,Platform 2,MEPC14,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(20:2e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC15,Platform 2,MEPC15,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,,PC(20:3e/0:0),LPC_1MEPC,LPC,,,,,,,
+MEPC17,Platform 2,MEPC17,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(22:1e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC18,Platform 2,MEPC18,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,,PC(0:0/O-22:0),LPC_1MEPC,LPC,,,,,,,
+MEPC19,Platform 2,MEPC19,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(O-22:0/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC20,Platform 2,MEPC20,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(24:1e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC21,Platform 2,MEPC21,Glycerophospholipids,1-Monoetherglycerophosphocholine,,,,PC(24:2e/0:0),,LPC_1MEPC,LPC,,,,,,,
+MEPC22,Platform 2,MEPC22,Glycerophospholipids,Monoetherglycerophosphocholine,,,,LPC(e22:2),,LPC_MEPC,LPC,,,,,,,
+MEPE08,Platform 2,MEPE08,Glycerophospholipids,1-Monoetherglycerophosphoethanolamine,,,,PE(O-16:0/0:0),,LPE_1MEPE,LPE,,,,,,,
+MEPE09,Platform 2,MEPE09,Glycerophospholipids,1-Monoetherglycerophosphoethanolamine,,,,PE(16:2e/0:0),,LPE_1MEPE,LPE,,,,,,,
+MEPE12,Platform 2,MEPE12,Glycerophospholipids,1-Monoetherglycerophosphoethanolamine,,,,PE(18:1e/0:0),,LPE_1MEPE,LPE,,,,,,,
+MEPE14,Platform 2,MEPE14,Glycerophospholipids,1-Monoetherglycerophosphoethanolamine,,,,PE(18:2e/0:0),,LPE_1MEPE,LPE,,,,,,,
+MEPE15,Platform 2,MEPE15,Glycerophospholipids,1-Monoetherglycerophosphoethanolamine,,,,,PE(18:3e/0:0),LPE_1MEPE,LPE,,,,,,,
+MEPE18,Platform 2,MEPE18,Glycerophospholipids,1-Monoetherglycerophosphoethanolamine,,,,PE(20:1e/0:0),,LPE_1MEPE,LPE,,,,,,,
+MEPE19,Platform 2,MEPE19,Glycerophospholipids,1-Monoetherglycerophosphoethanolamine,,,,PE(20:2e/0:0),,LPE_1MEPE,LPE,,,,,,,
+MEPE20,Platform 2,MEPE20,Glycerophospholipids,1-Monoetherglycerophosphoethanolamine,,,,PE(20:3e/0:0),,LPE_1MEPE,LPE,,,,,,,
+NAE_02,Platform 1,NAE_02,Fatty amides,N-acyl ethanolamines,N-acyl ethanolamines,,Palmitoyl ethanolamide,NAE(16:0),,NAE,NAE,HMDB02100,C16512,C18H37NO2,Palmitoylethanolamide,Cell signaling,Fatty Amides,Lipids
+NAE_04,Platform 1,NAE_04,Fatty amides,N-acyl ethanolamines,N-acyl ethanolamines,,Stearoyl ethanolamide,NAE(18:0),,NAE,NAE,HMDB13078,,C20H41NO2,Stearoylethanolamide,Cell signaling,Fatty Amides,Lipids
+NAE_05,Platform 1,NAE_05,Fatty amides,N-acyl ethanolamines,N-acyl ethanolamines,,N-Oleoyl ethanolamide,NAE(18:1n-9),,NAE,NAE,HMDB02088,,C20H39NO2,N-Oleoylethanolamine,Cell signaling,Fatty Amides,Lipids
+NAE_06,Platform 1,NAE_06,Fatty amides,N-acyl ethanolamines,N-acyl ethanolamines,,,,NAE(18:1n-x),NAE,NAE,,,,,,,
+NAE_07,Platform 1,NAE_07,Fatty amides,N-acyl ethanolamines,N-acyl ethanolamines,,Linoleoyl ethanolamide,NAE(18:2n-6),,NAE,NAE,HMDB12252,,C20H37NO2,Linoleoyl ethanolamide,Cell signaling,Fatty Amides,Lipids
+NAE_09,Platform 1,NAE_09,Fatty amides,N-acyl ethanolamines,N-acyl ethanolamines,,N-arachidonoyl ethanolamide  (anandamide),NAE(20:4n-6),,NAE,NAE,HMDB04080,C11695,C22H37NO2,Anandamide,Cell signaling,Fatty Amides,Lipids
+NAE_12,Platform 1,NAE_12,Fatty amides,N-acyl ethanolamines,N-acyl ethanolamines,,Docosahexaenoyl ethanolamide ,NAE(22:6n-3),,NAE,NAE,HMDB13658,,C24H37NO2,Docosahexaenoyl Ethanolamide,Cell signaling,Fatty Amides,Lipids
+SphLip_02,Platform 2,SphLip_02,Sphingolipids,Sphingomyelin,,Sphingoid base d18:0,,SM(d18:0/14:0),,SM,SM,HMDB12085,C00550,C37H77N2O6P,SM(d18:0/14:0),Cell signaling,Sphingolipids,Lipids
+SphLip_03,Platform 2,SphLip_03,Sphingolipids,Sphingomyelin,,Sphingoid base d18:0,,SM(d18:0/15:0),,SM,SM,,,,,,,
+SphLip_04,Platform 2,SphLip_04,Sphingolipids,Sphingomyelin,,Sphingoid base d18:0,,SM(d18:0/16:0),,SM,SM,HMDB10168,C00550,C39H82N2O6P,SM(d18:0/16:0),Cell signaling,Sphingolipids,Lipids
+SphLip_05,Platform 2,SphLip_05,Sphingolipids,Sphingomyelin,,Sphingoid base d18:0,,SM(d18:0/18:0),,SM,SM,HMDB12087,C00550,C41H85N2O6P,SM(d18:0/18:0),Cell signaling,Sphingolipids,Lipids
+SphLip_06,Platform 2,SphLip_06,Sphingolipids,Sphingomyelin,,Sphingoid base d18:0,,SM(d18:0/22:0),,SM,SM,HMDB12091,C00550,C45H93N2O6P,SM(d18:0/22:0),Cell signaling,Sphingolipids,Lipids
+SphLip_07,Platform 2,SphLip_07,Sphingolipids,Sphingomyelin,,Sphingoid base d18:1,,SM(d18:1/12:0),,SM,SM,HMDB12096,C00550,C35H71N2O6P,SM(d18:1/12:0),Cell signaling,Sphingolipids,Lipids
+SphLip_08,Platform 2,SphLip_08,Sphingolipids,Sphingomyelin,,Mixed sphingoid base,,SM(32:1),SM(d16:1/16:0) + SM(d18:1/14:0),SM,SM,,,,,,,
+SphLip_09,Platform 2,SphLip_09,Sphingolipids,Sphingomyelin,,Mixed sphingoid base,,SM(33:1),SM(d17:1/16:0) + SM(d18:1/15:0),SM,SM,,,,,,,
+SphLip_10,Platform 2,SphLip_10,Sphingolipids,Sphingomyelin,,Sphingoid base d18:1,,SM(d18:1/16:0),,SM,SM,HMDB10169,C00550,C39H80N2O6P,SM(d18:1/16:0),Cell signaling,Sphingolipids,Lipids
+SphLip_11,Platform 2,SphLip_11,Sphingolipids,Sphingomyelin,,Sphingoid base d18:2,,SM(d18:2/16:0),,SM,SM,,,,,,,
+SphLip_12,Platform 2,SphLip_12,Sphingolipids,Sphingomyelin,,Sphingoid base d18:1,,SM(d18:1/17:0),,SM,SM,,,,,,,
+SphLip_13,Platform 2,SphLip_13,Sphingolipids,Sphingomyelin,,Sphingoid base d18:1,,SM(d18:1/18:0),small contribution from SM(d16:1/20:0),SM,SM,HMDB01348,C00550,C41H84N2O6P,SM(d18:1/18:0),Cell signaling,Sphingolipids,Lipids
+SphLip_14,Platform 2,SphLip_14,Sphingolipids,Sphingomyelin,,Mixed sphingoid base,,SM(36:2),SM(d18:1/18:1) + SM(d18:2/18:0),SM,SM,,,,,,,
+SphLip_16,Platform 2,SphLip_16,Sphingolipids,Sphingomyelin,,Mixed sphingoid base,,SM(38:1),SM(d18:1/20:0) + SM(16:1/22:0),SM,SM,,,,,,,
+SphLip_17,Platform 2,SphLip_17,Sphingolipids,Sphingomyelin,,Sphingoid base d18:2,,SM(d18:2/20:0),,SM,SM,,,,,,,
+SphLip_19,Platform 2,SphLip_19,Sphingolipids,Sphingomyelin,,Mixed sphingoid base,,SM(39:1),SM(d18:1/21:0) + SM(d17:1/22:0) + SM(d16:1/23:0) + SM(d19:1/20:0),SM,SM,,,,,,,
+SphLip_20,Platform 2,SphLip_20,Sphingolipids,Sphingomyelin,,Sphingoid base d18:1,,SM(d18:1/22:0),small SM(d16:1/24:0) ,SM,SM,HMDB12103,C00550,C45H91N2O6P,SM(d18:1/22:0),Cell signaling,Sphingolipids,Lipids
+SphLip_21,Platform 2,SphLip_21,Sphingolipids,Sphingomyelin,,Sphingoid base d16:1,,SM(d16:1/24:1),,SM,SM,HMDB11694,,C45H90N2O6P,SM(d16:1/24:1(15Z)),Cell signaling,Sphingolipids,Lipids
+SphLip_22,Platform 2,SphLip_22,Sphingolipids,Sphingomyelin,,Sphingoid base d18:2,,SM(d18:2/22:0),,SM,SM,,,,,,,
+SphLip_23,Platform 2,SphLip_23,Sphingolipids,Sphingomyelin,,Sphingoid base d18:1,,SM(d18:1/23:0),,SM,SM,HMDB12105,C00550,C46H93N2O6P,SM(d18:1/23:0),Cell signaling,Sphingolipids,Lipids
+SphLip_24,Platform 2,SphLip_24,Sphingolipids,Sphingomyelin,,Sphingoid base d18:1,,SM(d18:1/23:1),,SM,SM,,,,,,,
+SphLip_25,Platform 2,SphLip_25,Sphingolipids,Sphingomyelin,,Sphingoid base d18:2,,SM(d18:2/23:0),,SM,SM,,,,,,,
+SphLip_26_SphLip_27,Platform 2,SphLip_26_SphLip_27,Sphingolipids,Sphingomyelin,,Mixed sphingoid base,,SM(d18:1/24:1) + SM(d18:2/24:0),,SM,SM,,,,,,,
+SphLip_28,Platform 2,SphLip_28,Sphingolipids,Sphingomyelin,,Mixed sphingoid base,,SM(42:3),SM(d18:2/24:1) + SM(d18:1/24:2),SM,SM,,,,,,,
+SphLip_29,Platform 2,SphLip_29,Sphingolipids,Sphingomyelin,,Sphingoid base d18:2,,SM(d18:2/14:0),,SM,SM,,,,,,,
+SphLip_30,Platform 2,SphLip_30,Sphingolipids,Sphingomyelin,,,,SM(42:1),,SM,SM,,,,,,,
+SphLip_31,Platform 2,SphLip_31,Sphingolipids,Sphingomyelin,,Sphingoid base d18:1,,SM(d18:1/25:0),,SM,SM,,,,,,,
+SphLip_33,Platform 2,SphLip_33,Sphingolipids,Sphingomyelin,,Sphingoid base d18:1,,SM(43:2),higher contribution SM(d19:1/24:1),SM,SM,,,,,,,
+SphLip_34,Platform 2,SphLip_34,Sphingolipids,Sphingomyelin,,Sphingoid base d18:0,,SM(38:0),,SM,SM,,,,,,,
+SphLip_35,Platform 2,SphLip_35,Sphingolipids,Sphingomyelin,,Sphingoid base d18:1,,SM(31:1),,SM,SM,,,,,,,
+ST01,Platform 1,ST01,Sterols,Steroids,,,,Cortisol (hydrocortisone),,ST,ST,HMDB00063,C00735,C21H30O5,Cortisol,Cell signaling,Steroids and Steroid Derivatives,Lipids
+ST02,Platform 1,ST02,Sterols,Steroid sulfates,,,DHEAS,Dehydroepiandrosterone sulfate (DHEAS),,ST,ST,HMDB01032,C04555,C19H28O5S,DHEA sulfate,Cell signaling,Steroids and Steroid Derivatives,Lipids
+ST03,Platform 1,ST03,Sterols,Steroid sulfates,,,,Pregnenolone sulfate,,ST,ST,HMDB00774,,C21H32O5S,Pregnenolone sulfate,Cell signaling,Steroids and Steroid Derivatives,Lipids
+ST04,Platform 1,ST04,Sterols,Steroid sulfates,,,DHEAS,,isomer Dehydroepiandrosterone sulfate (DHEAS),ST,ST,,,,,,,
+ST05,Platform 1,ST05,Sterols,Steroid sulfates,,,,,isomer androsterone sulfate,ST,ST,,,,,,,
+ST07,Platform 1,ST07,Sterols,Steroid sulfates,,,,,isomer androsterone sulfate,ST,ST,,,,,,,
+ST08,Platform 1,ST08,Sterols,Steroid sulfates,,,,androsterone sulfate + etiocholanolone sulfate,,ST,ST,HMDB02759,C04555,C19H30O5S,Androsterone sulfate,Cell signaling,Steroids and Steroid Derivatives,Lipids
+ST09,Platform 1,ST09,Sterols,Steroid sulfates,,,,,isomer androsterone sulfate,ST,ST,,,,,,,
+ST10,Platform 1,ST10,Sterols,Steroid sulfates,,,,,"isomer pregn-5-ene-3,20-diol sulfate",ST,ST,,,,,,,
+TG03,Platform 2,TG03,Glycerolipids,Triacylglyceride,,,,TG(42:0),TG(14:0+12:0+16:0),TAG,TAG,,,,,,,
+TG04,Platform 2,TG04,Glycerolipids,Triacylglyceride,,,,TG(44:0),TG(16:0+16:0+12:0) + TG(16:0+14:0+14:0),TAG,TAG,,,,,,,
+TG05,Platform 2,TG05,Glycerolipids,Triacylglyceride,,,,TG(44:1),TG(14:0+18:1+12:0) + TG(16:0+16:1+12:0),TAG,TAG,,,,,,,
+TG06,Platform 2,TG06,Glycerolipids,Triacylglyceride,,,,TG(44:2),TG(14:0+18:2+12:0),TAG,TAG,,,,,,,
+TG07_TG08,Platform 2,TG07_TG08,Glycerolipids,Triacylglyceride,,,,TG(45:0),TG(16:0+15:0+14:0),TAG,TAG,,,,,,,
+TG09,Platform 2,TG09,Glycerolipids,Triacylglyceride,,,,TG(46:0),TG(16:0+16:0+14:0),TAG,TAG,,,,,,,
+TG10,Platform 2,TG10,Glycerolipids,Triacylglyceride,,,,TG(46:1),TG(12:0+18:1+16:0),TAG,TAG,,,,,,,
+TG11,Platform 2,TG11,Glycerolipids,Triacylglyceride,,,,TG(46:2),TG(14:0+18:2+14:0) + TG(16:1+18:1+12:0),TAG,TAG,,,,,,,
+TG12,Platform 2,TG12,Glycerolipids,Triacylglyceride,,,,TG(46:3),TG(18:2+16:1+12:0 + TG(18:1+16:2+12:0) + TG(10:0+18:2+18:1),TAG,TAG,,,,,,,
+TG13_TG14,Platform 2,TG13_TG14,Glycerolipids,Triacylglyceride,,,,TG(47:0),TG(16:0+16:0+15:0),TAG,TAG,,,,,,,
+TG15,Platform 2,TG15,Glycerolipids,Triacylglyceride,,,,TG(47:1),TG(18:1+14:0+15:0) + TG(16:1+17:0+14:0),TAG,TAG,,,,,,,
+TG16,Platform 2,TG16,Glycerolipids,Triacylglyceride,,,,TG(48:0),TG(16:0/16:0/16:0),TAG,TAG,HMDB05356,,C51H98O6,TG(16:0/16:0/16:0)[iso],Cell signaling,Glycerolipids,Lipids
+TG17,Platform 2,TG17,Glycerolipids,Triacylglyceride,,,,TG(48:1),TG(14:0+18:1+16:0) + TG(16:0+16:1+16:0),TAG,TAG,,,,,,,
+TG18,Platform 2,TG18,Glycerolipids,Triacylglyceride,,,,TG(48:2),TG(14:0+18:1+16:1) + TG(16:0+18:2+14:0),TAG,TAG,,,,,,,
+TG19,Platform 2,TG19,Glycerolipids,Triacylglyceride,,,,TG(48:3),TG(18:1+18:2+12:0),TAG,TAG,,,,,,,
+TG20,Platform 2,TG20,Glycerolipids,Triacylglyceride,,,,TG(48:4),TG(18:2+18:2+12:0) + TG(18:1+18:3+12:0),TAG,TAG,,,,,,,
+TG22,Platform 2,TG22,Glycerolipids,Triacylglyceride,,,,TG(49:0),TG(16:0+17:0+16:0) + TG(18:0+17:0+14:0),TAG,TAG,,,,,,,
+TG23,Platform 2,TG23,Glycerolipids,Triacylglyceride,,,,TG(49:1),TG(15:0+18:1+16:0),TAG,TAG,,,,,,,
+TG24,Platform 2,TG24,Glycerolipids,Triacylglyceride,,,,TG(49:2),TG(15:0+18:2+16:0) + TG(18:1+16:1+15:0) + TG(18:1+14:0+17:1) + TG(16:0+18:2+15:0),TAG,TAG,,,,,,,
+TG25,Platform 2,TG25,Glycerolipids,Triacylglyceride,,,,TG(49:3),TG(17:1+16:1+16:1) + TG(18:2+15:0+16:1),TAG,TAG,,,,,,,
+TG26,Platform 2,TG26,Glycerolipids,Triacylglyceride,,,,TG(50:0),TG(16:0+16:0+18:0),TAG,TAG,,,,,,,
+TG27,Platform 2,TG27,Glycerolipids,Triacylglyceride,,,,TG(50:1),TG(16:0+18:1+16:0),TAG,TAG,,,,,,,
+TG28,Platform 2,TG28,Glycerolipids,Triacylglyceride,,,,TG(50:2),TG(16:0+18:1+16:1) + TG(18:1+18:1+14:0) + TG(16:0+18:2+16:0),TAG,TAG,,,,,,,
+TG29,Platform 2,TG29,Glycerolipids,Triacylglyceride,,,,TG(50:3),TG(16:1+18:1+16:1) +  TG(16:0+18:2+16:1),TAG,TAG,,,,,,,
+TG30,Platform 2,TG30,Glycerolipids,Triacylglyceride,,,,TG(50:4),TG(16:1+18:2+16:1) + TG(16:1+18:3+16:0) + TG(18:1+18:3+14:0) + TG(14:0+18.4+18:0),TAG,TAG,,,,,,,
+TG31,Platform 2,TG31,Glycerolipids,Triacylglyceride,,,,TG(50:5),TG(18:3+18:2+14:0),TAG,TAG,,,,,,,
+TG33,Platform 2,TG33,Glycerolipids,Triacylglyceride,,,,TG(51:1),TG(16:0+17:0+18:1),TAG,TAG,,,,,,,
+TG34,Platform 2,TG34,Glycerolipids,Triacylglyceride,,,,TG(51:2),TG(16:0+17:1+18:1),TAG,TAG,,,,,,,
+TG35,Platform 2,TG35,Glycerolipids,Triacylglyceride,,,,TG(51:3),TG(16:0+17:1+18:2) + TG(18:2+18:1+15:0),TAG,TAG,,,,,,,
+TG36,Platform 2,TG36,Glycerolipids,Triacylglyceride,,,,TG(51:4),TG(18:2+18:2+15:0) + TG(17:1+18:2+16:1) + TG(17:1+18:3+16:0),TAG,TAG,,,,,,,
+TG37,Platform 2,TG37,Glycerolipids,Triacylglyceride,,,,TG(52:0),TG(16:0+18:0+18:0),TAG,TAG,,,,,,,
+TG38,Platform 2,TG38,Glycerolipids,Triacylglyceride,,,,TG(52:1),TG(16:0+18:1+18:0),TAG,TAG,,,,,,,
+TG39,Platform 2,TG39,Glycerolipids,Triacylglyceride,,,,TG(52:2),TG(16:0+18:1+18:1),TAG,TAG,,,,,,,
+TG40,Platform 2,TG40,Glycerolipids,Triacylglyceride,,,,TG(52:3),TG(16:0+18:1+18:2),TAG,TAG,,,,,,,
+TG41,Platform 2,TG41,Glycerolipids,Triacylglyceride,,,,TG(52:4),TG(16:0+18:2+18:2),TAG,TAG,,,,,,,
+TG42,Platform 2,TG42,Glycerolipids,Triacylglyceride,,,,TG(52:5),TG(16:0+18:2+18:3),TAG,TAG,,,,,,,
+TG43,Platform 2,TG43,Glycerolipids,Triacylglyceride,,,,TG(53:0),TG(17:0+18:0+18:0) + TG(20:0+17:0+16:0),TAG,TAG,,,,,,,
+TG44,Platform 2,TG44,Glycerolipids,Triacylglyceride,,,,TG(53:1),TG(18:0+18:1+17:0),TAG,TAG,,,,,,,
+TG45,Platform 2,TG45,Glycerolipids,Triacylglyceride,,,,TG(53:2),TG(18:1+18:1+17:0),TAG,TAG,,,,,,,
+TG46,Platform 2,TG46,Glycerolipids,Triacylglyceride,,,,TG(53:3),TG(18:2+18:1+17:0) + TG(18:1+18:1+17:1),TAG,TAG,,,,,,,
+TG47,Platform 2,TG47,Glycerolipids,Triacylglyceride,,,,TG(54:0),TG(18:0/18:0/18:0),TAG,TAG,HMDB05393,C00422,C57H110O6,TG(18:0/18:0/18:0),Cell signaling,Glycerolipids,Lipids
+TG48,Platform 2,TG48,Glycerolipids,Triacylglyceride,,,,TG(54:1),TG(18:0+18:1+18:0),TAG,TAG,,,,,,,
+TG49,Platform 2,TG49,Glycerolipids,Triacylglyceride,,,,TG(54:2),TG(18:0+18:1+18:1),TAG,TAG,,,,,,,
+TG50,Platform 2,TG50,Glycerolipids,Triacylglyceride,,,,TG(54:3),TG(20:2+20:1+14:0) + TG(20:2+18:1+16:0) + TG(20:1+18:2+16:0) + TG(18:2+18:1+18:0),TAG,TAG,,,,,,,
+TG51,Platform 2,TG51,Glycerolipids,Triacylglyceride,,,,TG(54:4),TG(18:2+18:1+18:1) + TG(18:2+18:2+18:0),TAG,TAG,,,,,,,
+TG52,Platform 2,TG52,Glycerolipids,Triacylglyceride,,,,TG(54:5),TG(18:2+18:2+18:1),TAG,TAG,,,,,,,
+TG53,Platform 2,TG53,Glycerolipids,Triacylglyceride,,,,TG(54:5),TG(18:1+20:4+16:0),TAG,TAG,,,,,,,
+TG54,Platform 2,TG54,Glycerolipids,Triacylglyceride,,,,TG(54:6),TG(18:2+18:3+18:1),TAG,TAG,,,,,,,
+TG55,Platform 2,TG55,Glycerolipids,Triacylglyceride,,,,TG(54:6),TG(20:4+18:2+16:0),TAG,TAG,,,,,,,
+TG56,Platform 2,TG56,Glycerolipids,Triacylglyceride,,,,TG(54:7),TG(18:2+18:3+18:2),TAG,TAG,,,,,,,
+TG57,Platform 2,TG57,Glycerolipids,Triacylglyceride,,,,TG(54:7),TG(20:5+18:2+16:0),TAG,TAG,,,,,,,
+TG58,Platform 2,TG58,Glycerolipids,Triacylglyceride,,,,TG(56:0),TG(20:0+18:0+18:0) + TG(22:0+20:0+14:0),TAG,TAG,,,,,,,
+TG59,Platform 2,TG59,Glycerolipids,Triacylglyceride,,,,TG(56:1),TG(22:0+18:1+16:0) + TG(24:0+16:1+16:0),TAG,TAG,,,,,,,
+TG60,Platform 2,TG60,Glycerolipids,Triacylglyceride,,,,TG(56:2),TG(18:1+20:1+18:0),TAG,TAG,,,,,,,
+TG61,Platform 2,TG61,Glycerolipids,Triacylglyceride,,,,TG(56:3),TG(18:1+20:1+18:1),TAG,TAG,,,,,,,
+TG62,Platform 2,TG62,Glycerolipids,Triacylglyceride,,,,TG(56:5),TG(22:5+18:0+16:0) + TG(22:4+18:1+16:0),TAG,TAG,,,,,,,
+TG63,Platform 2,TG63,Glycerolipids,Triacylglyceride,,,,TG(56:5),TG(20:4+18:1+18:0),TAG,TAG,,,,,,,
+TG64,Platform 2,TG64,Glycerolipids,Triacylglyceride,,,,TG(56:6),TG(22:5+18:1+16:0) + TG(20:4+18:1+18:1),TAG,TAG,,,,,,,
+TG65,Platform 2,TG65,Glycerolipids,Triacylglyceride,,,,TG(56:7),TG(22:5+18:2+16:0) + TG(20:4+18:2+18:1),TAG,TAG,,,,,,,
+TG66,Platform 2,TG66,Glycerolipids,Triacylglyceride,,,,TG(56:7),TG(22:6+18:1+16:0),TAG,TAG,,,,,,,
+TG67,Platform 2,TG67,Glycerolipids,Triacylglyceride,,,,TG(56:8),TG(20:5+18:2+18:1) + TG(20:4+18:2+18:2),TAG,TAG,,,,,,,
+TG68,Platform 2,TG68,Glycerolipids,Triacylglyceride,,,,TG(56:8),TG(22:6+18:2+16:0),TAG,TAG,,,,,,,
+TG69,Platform 2,TG69,Glycerolipids,Triacylglyceride,,,,TG(58:1),TG(24:0+18:1+16:0),TAG,TAG,,,,,,,
+TG70,Platform 2,TG70,Glycerolipids,Triacylglyceride,,,,TG(58:2),TG(18:1+22:0+18:1),TAG,TAG,,,,,,,
+TG71,Platform 2,TG71,Glycerolipids,Triacylglyceride,,,,TG(58:3),TG(22:1+18:1+18:1) + TG(22:1+18:2+18:0),TAG,TAG,,,,,,,
+TG72,Platform 2,TG72,Glycerolipids,Triacylglyceride,,,,TG(58:4),TG(22:0+18:2+18:2),TAG,TAG,,,,,,,
+TG73,Platform 2,TG73,Glycerolipids,Triacylglyceride,,,,TG(58:6),TG(22:5+18:0+18:1),TAG,TAG,,,,,,,
+TG74,Platform 2,TG74,Glycerolipids,Triacylglyceride,,,,TG(58:7),TG(22:5+18:2+18:0) + TG(22:4+18:2+18:1) + TG(22:5+18:1+18:1),TAG,TAG,,,,,,,
+TG75,Platform 2,TG75,Glycerolipids,Triacylglyceride,,,,TG(58:8),TG(22:5+18:2+18:1) + TG(22:6+18:1+18:1),TAG,TAG,,,,,,,
+TG76,Platform 2,TG76,Glycerolipids,Triacylglyceride,,,,TG(58:9),TG(20:4+20:4+18:1) + TG(22:6+18:1+18:2),TAG,TAG,,,,,,,
+TG77,Platform 2,TG77,Glycerolipids,Triacylglyceride,,,,TG(58:10),TG(20:5+20:4+18:1) + TG(20:4+20:4+18:2),TAG,TAG,,,,,,,
+TG79,Platform 2,TG79,Glycerolipids,Triacylglyceride,,,,TG(60:1),TG(24:0+18:0+18:1),TAG,TAG,,,,,,,
+TG80,Platform 2,TG80,Glycerolipids,Triacylglyceride,,,,TG(60:2),TG(24:0+18:1+18:1),TAG,TAG,,,,,,,
+TG81,Platform 2,TG81,Glycerolipids,Triacylglyceride,,,,TG(60:3),TG(24:0+18:1+18:2),TAG,TAG,,,,,,,
+TG82,Platform 2,TG82,Glycerolipids,Triacylglyceride,,,,TG(42:1),TG(12:0+18:1+12:0),TAG,TAG,,,,,,,
+TG83,Platform 2,TG83,Glycerolipids,Triacylglyceride,,,,TG(53:4),TG(18:2+17:1+18:1),TAG,TAG,,,,,,,
+TG84,Platform 2,TG84,Glycerolipids,Triacylglyceride,,,,TG(45:1),TG(14:0+15:0+16:1),TAG,TAG,,,,,,,

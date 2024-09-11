@@ -1,0 +1,36 @@
+name_original,name_corrected,Match,HMDB,PubChem,ChEBI,KEGG,METLIN,SMILES,Comment
+Formic acid (C1:0),Formic acid,Formic acid,HMDB0000142,284,30751,C00058,3202,OC=O,1
+Acetic acid (C2:0),Acetic acid,Acetic acid,HMDB0000042,176,15366,C00033,3206,CC(=O)O,1
+Propionic acid (C3:0),Propionic acid,Propionic acid,HMDB0000237,1032,30768,C00163,3215,CCC(=O)O,1
+Butyric acid (C4:0),Butyric acid,Butyric acid,HMDB0000039,264,30772,C00246,107,CCCC(=O)O,1
+Isobutyric acid (2-Me-3:0),Isobutyric acid,Isobutyric acid,HMDB0001873,6590,16135,C02632,106,CC(C)C(=O)O,1
+Crotonic acid (2t-4:1),Crotonic acid,But-2-enoic acid,HMDB0010720,637090,41131,C01771,NA,C/C=C/C(=O)O,1
+Valeric acid (C5:0),Valeric acid,Valeric acid,HMDB0000892,7991,17418,C00803,110,CCCCC(=O)O,1
+Isovaleric acid (3-Me-4:0),Isovaleric acid,Isovaleric acid,HMDB0000718,10430,28484,C08262,109,CC(C)CC(=O)O,1
+Caproic acid (C6:0),Caproic acid,Caproic acid,HMDB0000535,8892,30776,C01585,5520,CCCCCC(=O)O,1
+Isocaproic acid (4-Me-5:0),Isocaproic acid,Isocaproic acid,HMDB0000689,12587,74903,NA,4191,CC(C)CCC(=O)O,1
+Enanthic acid (C7:0),Enanthic acid,Heptanoic acid,HMDB0000666,8094,45571,C17714,5636,CCCCCCC(=O)O,1
+Caprylic acid (C8:0),Caprylic acid,Caprylic acid,HMDB0000482,379,28837,C06423,5469,CCCCCCCC(=O)O,1
+Capric acid (C10:0),Capric acid,Capric acid,HMDB0000511,2969,30813,C01571,336,CCCCCCCCCC(=O)O,1
+Unddecylic acid (11:0),Undecylenic acid,Undecylenic acid,HMDB0033724,5634,35045,C13910,NA,C=CCCCCCCCCC(=O)O,1
+Lauric acid (C12:0),Lauric acid,Dodecanoic acid,HMDB0000638,3893,30805,C02679,5611,CCCCCCCCCCCC(=O)O,1
+Myristic acid (C14:0),Myristic acid,Myristic acid,HMDB0000806,11005,28875,C06424,196,CCCCCCCCCCCCCC(=O)O,1
+Pentadecanoic acid (C15:0),Pentadecanoic acid,Pentadecanoic acid,HMDB0000826,13849,42504,C16537,5789,CCCCCCCCCCCCCCC(=O)O,1
+isopentadecanoic (13-Me-14:0),Isopentadecylic acid,Isopentadecylic acid,HMDB0061707,151014,39250,NA,NA,CC(C)CCCCCCCCCCCC(O)=O,1
+Palmitic acid (16:0),Palmitic acid,Palmitic acid,HMDB0000220,985,15756,C00249,187,CCCCCCCCCCCCCCCC(=O)O,1
+Palmitoleic acid (16:1),Palmitoleic acid,Palmitoleic acid,HMDB0003229,5312427,28716,C08362,188,CCCCCC/C=C\CCCCCCCC(=O)O,1
+Heptadecanoic acid (C17:0),Heptadecanoic acid,Heptadecanoic acid,HMDB0002259,10465,32365,NA,6578,CCCCCCCCCCCCCCCCC(=O)O,1
+isoheptadecanoic (15-Me-16:0),15-Methyl palmitic acid,15-Methyl palmitic acid,HMDB0061709,164860,70850,NA,NA,CC(C)CCCCCCCCCCCCCC(O)=O,1
+Stearic acid (18:0),Stearic acid,Stearic acid,HMDB0000827,5281,28842,C01530,189,CCCCCCCCCCCCCCCCCC(=O)O,1
+Oleic acid (C18:1),Oleic acid,Oleic acid,HMDB0000207,445639,16196,C00712,190,CCCCCCCC/C=C\CCCCCCCC(=O)O,1
+Linoleic acid (C18:2),Linoleic acid,Linoleic acid,HMDB0000673,5280450,17351,C01595,191,CCCCC/C=C\C/C=C\CCCCCCCC(=O)O,1
+Linolenic acid (C18:3),Linolenic acid,Alpha-Linolenic acid,HMDB0001388,5280934,27432,C06427,6208,CC/C=C\C/C=C\C/C=C\CCCCCCCC(=O)O,1
+Nonadecanoic acid (C19:0),Nonadecanoic acid,Nonadecanoic acid,HMDB0000772,12591,39246,C16535,5738,CCCCCCCCCCCCCCCCCCC(=O)O,1
+isononadecanoic acid (17-Me-18:0),isononadecanoic acid,17-Methylstearate,HMDB0061710,3083779,133136,NA,NA,CC(C)CCCCCCCCCCCCCCCC(O)=O,1
+Arachidic (C20:0),Arachidic acid,Arachidic acid,HMDB0002212,10467,28822,C06425,401,CCCCCCCCCCCCCCCCCCCC(=O)O,1
+Arachidonic acid (20:4),Arachidonic acid,Arachidonic acid,HMDB0001043,444899,15843,C00219,193,CCCCC/C=C\C/C=C\C/C=C\C/C=C\CCCC(=O)O,1
+Behenic acid (C22:0),Behenic acid,Behenic acid,HMDB0000944,8215,28941,C08281,260,CCCCCCCCCCCCCCCCCCCCCC(=O)O,1
+Erucic acid (C22:1),Erucic acid,Erucic acid,HMDB0002068,5281116,28792,C08316,6470,CCCCCCCC/C=C\CCCCCCCCCCCC(=O)O,1
+"cis-4,7,10,13,16,19-Docosahexaenoic acid (C22:6)",Docosahexaenoic acid,Docosahexaenoic acid,HMDB0002183,445580,28125,C06429,3457,CC/C=C\C/C=C\C/C=C\C/C=C\C/C=C\C/C=C\CCC(=O)O,1
+Lignoceric acid (C24:0),Lignoceric acid,Tetracosanoic acid,HMDB0002003,11197,28866,C08320,6427,CCCCCCCCCCCCCCCCCCCCCCCC(=O)O,1
+Nervonic acid (C24:1),Nervonic acid,Nervonic acid,HMDB0002368,5281120,44247,C08323,262,CCCCCCCC/C=C\CCCCCCCCCCCCCC(=O)O,1
