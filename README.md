@@ -1,5 +1,11 @@
 # Metabolomic profiles differentiate between porto-sinusoidal vascular disorder, liver cirrhosis, and healthy individuals
 
+## Archived version
+
+This is a read-only archive of the code supplementary to the publication related to the Vienna Liver Study Groups.
+---
+
+
 ## Description
 These notebooks were developed and used by Oleksandr Petrenko to analyze metabolomics datasets for the study:  
 G. Semmler*, O. Petrenko*, J. Jose Lozano, S. Shalaby, J. I. Sánchez-Avila, N. Marella, T. Hannich, K. Wöran, L. Balcar, B. Simbrunner, K. Lampichler, B. Mozayani, M. Trauner, M. Mandorfer, T. Reiberger, J. C. García Pagán, B. Scheiner, Metabolomic profiles differentiate between porto-sinusoidal vascular disorder, liver cirrhosis, and healthy individuals. JHEP Rep., 101208 (2024).
